@@ -1,0 +1,44 @@
+{
+    "bows": {
+        "14": [
+            { "level": 5, "experience": 20, "unstrung": 277, "strung": 189 },
+            { "level": 10, "experience": 40, "unstrung": 276, "strung": 188 }
+        ],
+        "632": [
+            { "level": 20, "experience": 66, "unstrung": 659, "strung": 649 },
+            { "level": 25, "experience": 100, "unstrung": 658, "strung": 648 }
+        ],
+        "633": [
+            { "level": 35, "experience": 133, "unstrung": 661, "strung": 651 },
+            { "level": 40, "experience": 166, "unstrung": 660, "strung": 650 }
+        ],
+        "634": [
+            { "level": 50, "experience": 200, "unstrung": 663, "strung": 653 },
+            { "level": 55, "experience": 233, "unstrung": 662, "strung": 652 }
+        ],
+        "635": [
+            { "level": 65, "experience": 266, "unstrung": 665, "strung": 655 },
+            { "level": 70, "experience": 300, "unstrung": 664, "strung": 654 }
+        ],
+        "636": [
+            { "level": 80, "experience": 333, "unstrung": 667, "strung": 657 },
+            { "level": 85, "experience": 366, "unstrung": 666, "strung": 656 }
+        ]
+    },
+    "arrows": {
+        "669": { "level": 1, "experience": 50, "id": 11 },
+        "670": { "level": 15, "experience": 100, "id": 638 },
+        "671": { "level": 30, "experience": 200, "id": 640 },
+        "672": { "level": 45, "experience": 300, "id": 642 },
+        "673": { "level": 60, "experience": 400, "id": 644 },
+        "674": { "level": 75, "experience": 500, "id": 646 }
+    },
+    "darts": {
+        "1062": 1,
+        "1063": 22,
+        "1064": 37,
+        "1065": 52,
+        "1066": 67,
+        "1067": 82
+    }
+}

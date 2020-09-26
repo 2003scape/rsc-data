@@ -1,0 +1,315 @@
+{
+    "pickpocket": {
+        "11": {
+            "level": 1,
+            "experience": 32,
+            "roll": [180, 240],
+            "items": [{ "id": 10, "amount": 3 }],
+            "exclaimation": "Oi what do you think you're doing"
+        },
+        "63": {
+            "level": 10,
+            "experience": 58,
+            "items": [{ "id": 10, "amount": 9 }],
+            "roll": [162, 240],
+            "exclaimation": "What do you think you're doing"
+        },
+        "65": {
+            "level": 40,
+            "experience": 187,
+            "roll": [50, 240],
+            "items": [{ "id": 10, "amount": 30 }],
+            "exclaimation": "Err what do you think you're doing"
+        },
+        "86": {
+            "level": 25,
+            "experience": 104,
+            "roll": [124, 240],
+            "items": [{ "id": 10, "amount": 18 }],
+            "exclaimation": "Hey what do you think you're doing"
+        },
+        "100": { "reference": 65 },
+        "342": {
+            "level": 32,
+            "experience": 146,
+            "roll": [74, 240],
+            "items": [
+                { "id": 559, "weight": 1 },
+                { "id": 10, "amount": 25, "weight": 54 },
+                { "id": 10, "amount": 40, "weight": 54 },
+                { "id": 33, "amount": 8, "weight": 8 },
+                { "id": 142, "weight": 6 },
+                { "id": 714, "weight": 5 }
+            ],
+            "exclaimation": "Hey what do you think you're doing"
+        },
+        "321": { "reference": 65 },
+        "322": {
+            "level": 55,
+            "experience": 337,
+            "roll": [50, 240],
+            "items": [{ "id": 10, "amount": 50 }],
+            "exclaimation": "Err what do you think you're doing"
+        },
+        "323": {
+            "level": 70,
+            "experience": 607,
+            "roll": [50, 150],
+            "items": [{ "id": 10, "amount": 80 }, { "id": 41 }],
+            "exclaimation": "Get your hands off my valuables"
+        },
+        "324": {
+            "level": 80,
+            "experience": 1093,
+            "roll": [6, 100],
+            "items": [
+                { "id": 10, "amount": 200, "weight": 52 },
+                { "id": 10, "amount": 300, "weight": 53 },
+                { "id": 38, "amount": 2, "weight": 8 },
+                { "id": 40, "amount": 3, "weight": 5 },
+                { "id": 142, "weight": 6 },
+                { "id": 161, "weight": 1 },
+                { "id": 612, "weight": 2 },
+                { "id": 690, "weight": 1 }
+            ],
+            "exclaimation": "Get your hands off my valuables"
+        },
+        "574": {
+            "level": 65,
+            "experience": 550,
+            "roll": [15, 160],
+            "items": [{ "id": 10, "amount": 60 }, { "id": 138 }],
+            "alias": "watchman",
+            "exclaimation": "Oi you nasty little thief"
+        },
+        "579": {
+            "level": 75,
+            "experience": 793,
+            "roll": [8, 120],
+            "items": [
+                { "id": 897, "weight": 55 },
+                { "id": 10, "amount": 300, "weight": 30 },
+                { "id": 895, "weight": 28 },
+                { "id": 690, "weight": 8 },
+                { "id": 34, "weight": 5 },
+                { "id": 612, "weight": 2 }
+            ],
+            "alias": "gnome",
+            "exclaimation": "Get your hands off my valuables human"
+        },
+        "580": { "reference": 579 },
+        "581": { "reference": 579 },
+        "582": { "reference": 579 },
+        "583": { "reference": 579 },
+        "585": { "reference": 579 },
+        "586": { "reference": 579 },
+        "591": { "reference": 579 },
+        "592": { "reference": 579 },
+        "593": { "reference": 579 },
+        "722": {
+            "level": 25,
+            "experience": 0,
+            "roll": [124, 240],
+            "items": [
+                { "id": 10, "amount": 10, "weight": 30 },
+                { "id": 221, "weight": 20 },
+                { "id": 21, "weight": 18 },
+                { "id": 1115, "weight": 14 },
+                { "id": 1117, "weight": 12 },
+                { "id": 237, "weight": 16 },
+                { "id": 16, "weight": 10 }
+            ],
+            "exclaimation": "Hey what do you think you're doing"
+        },
+        "738": { "reference": 722 }
+    },
+    "stalls": {
+        "322": {
+            "level": 5,
+            "experience": 64,
+            "items": [{ "id": 330 }],
+            "respawn": 5000,
+            "owner": 780,
+            "guards": []
+        },
+        "323": {
+            "level": 20,
+            "experience": 96,
+            "items": [{ "id": 200 }],
+            "respawn": 8000,
+            "owner": 326,
+            "guards": [322, 321]
+        },
+        "324": {
+            "level": 35,
+            "experience": 144,
+            "items": [{ "id": 541 }],
+            "respawn": 15000,
+            "owner": 327,
+            "guards": [322, 321]
+        },
+        "325": {
+            "level": 50,
+            "experience": 216,
+            "items": [{ "id": 383 }],
+            "respawn": 30000,
+            "owner": 328,
+            "guards": [323, 322, 321]
+        },
+        "326": {
+            "level": 65,
+            "experience": 324,
+            "items": [{ "id": 707 }],
+            "respawn": 80000,
+            "owner": 329,
+            "guards": [323, 322, 321]
+        },
+        "327": {
+            "level": 75,
+            "experience": 640,
+            "items": [
+                { "id": 160, "weight": 105 },
+                { "id": 159, "weight": 17 },
+                { "id": 158, "weight": 5 },
+                { "id": 157, "weight": 1 }
+            ],
+            "respawn": 180000,
+            "owner": 330,
+            "guards": [324, 323, 322, 321]
+        },
+        "999": {
+            "level": 15,
+            "experience": 64,
+            "items": [{ "id": 1061 }],
+            "respawn": 5000,
+            "owner": 688,
+            "guards": []
+        },
+        "1034": { "reference": 999 },
+        "1183": {
+            "level": 5,
+            "experience": 64,
+            "items": [{ "id": 739 }],
+            "respawn": 5000,
+            "owner": 780,
+            "guards": []
+        }
+    },
+    "chests": {
+        "334": {
+            "level": 13,
+            "experience": 30,
+            "items": [{ "id": 10, "amount": 10 }],
+            "lockpick": false,
+            "respawn": 10000
+        },
+        "335": {
+            "level": 28,
+            "experience": 100,
+            "items": [{ "id": 10, "amount": 3 }, { "id": 40 }],
+            "lockpick": false,
+            "respawn": 25000
+        },
+        "336": {
+            "level": 43,
+            "experience": 500,
+            "items": [{ "id": 10, "amount": 50 }],
+            "lockpick": false,
+            "respawn": 100000
+        },
+        "337": {
+            "level": 59,
+            "experience": 1000,
+            "items": [{ "id": 619, "amount": 2 }],
+            "lockpick": false,
+            "respawn": 250000
+        },
+        "338": {
+            "level": 72,
+            "experience": 2000,
+            "items": [
+                { "id": 10, "amount": 1000 },
+                { "id": 545 },
+                { "id": 154 },
+                { "id": 160 }
+            ],
+            "lockpick": false,
+            "respawn": 500000
+        },
+        "379": {
+            "level": 47,
+            "experience": 600,
+            "items": [
+                { "id": 10, "amount": 20 },
+                { "id": 671, "amount": 5 }
+            ],
+            "lockpick": true,
+            "respawn": 150000
+        }
+    },
+    "doors": {
+        "93": {
+            "level": 7,
+            "experience": 15,
+            "lockpick": false,
+            "exits": [{ "x": 539, "y": 531 }]
+        },
+        "94": {
+            "level": 16,
+            "experience": 100,
+            "lockpick": false,
+            "exits": [
+                { "x": 565, "y": 585 },
+                { "x": 565, "y": 586 },
+                { "x": 539, "y": 599 },
+                { "x": 585, "y": 581 },
+                { "x": 581, "y": 580 },
+                { "x": 580, "y": 761 },
+                { "x": 581, "y": 762 }
+            ]
+        },
+        "95": {
+            "level": 31,
+            "experience": 100,
+            "lockpick": false,
+            "exits": [{ "x": 556, "y": 3425 }]
+        },
+        "96": {
+            "level": 46,
+            "experience": 150,
+            "lockpick": false,
+            "exits": [{ "x": 617, "y": 555 }]
+        },
+        "97": {
+            "level": 61,
+            "experience": 200,
+            "lockpick": false,
+            "exits": [{ "x": 609, "y": 1548 }]
+        },
+        "99": {
+            "level": 39,
+            "experience": 140,
+            "lockpick": true,
+            "exits": [
+                { "x": 263, "y": 104 },
+                { "x": 270, "y": 104 },
+                { "x": 266, "y": 100 }
+            ]
+        },
+        "100": {
+            "level": 32,
+            "experience": 100,
+            "lockpick": true,
+            "exits": [
+                { "x": 160, "y": 107 },
+                { "x": 160, "y": 103 }
+            ]
+        },
+        "162": {
+            "level": 82,
+            "experience": 200,
+            "lockpick": true,
+            "exits": []
+        }
+    }
+}

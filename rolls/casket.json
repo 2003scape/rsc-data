@@ -1,0 +1,17 @@
+{
+    "casket": [
+        { "id": 10, "amount": 10, "weight": 8 },
+        { "id": 10, "amount": 20, "weight": 10 },
+        { "id": 10, "amount": 40, "weight": 10 },
+        { "id": 10, "amount": 80, "weight": 10 },
+        { "id": 10, "amount": 160, "weight": 10 },
+        { "id": 10, "amount": 320, "weight": 10 },
+        { "id": 10, "amount": 640, "weight": 10 },
+        { "id": 160, "weight": 32 },
+        { "id": 159, "weight": 16 },
+        { "id": 158, "weight": 8 },
+        { "id": 157, "weight": 2 },
+        { "id": 526, "weight": 1 },
+        { "id": 527, "weight": 1 }
+    ]
+}

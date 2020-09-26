@@ -1,0 +1,42 @@
+{
+    "blurberry": {
+    },
+    "gianne": {
+        "dough": [
+            {
+                "level": 25,
+                "item": 880,
+                "cooked": 884,
+                "burnt": 886,
+                "alias": "gnomebatta",
+                "messages": [
+                    "you need a cooking level of 25 to mould dough batta's",
+                    "you attempt to mould the dough into a gnomebatta",
+                    "You manage to make some gnome batta dough",
+                    "You cook the gnome batta in the oven...",
+                    "You remove the gnome batta from the oven",
+                    "You accidentally burn the gnome batta"
+                ]
+            },
+            {
+                "level": 30,
+                "item": 882,
+                "cooked": 885,
+                "burnt": 888,
+                "alias": "gnomebowl",
+                "messages": [
+                    "you need a cooking level of 30 to mould dough bowls",
+                    "you attempt to mould the dough into a gnome bowl",
+                    "You manage to make some gnome bowl dough",
+                    "You cook the gnome bowl in the oven...",
+                    "You remove the gnome bowl from the oven",
+                    "You accidentally burn the gnome bbowl"
+                ]
+            },
+            {
+            }
+        ],
+        "combinations": {
+        }
+    }
+}

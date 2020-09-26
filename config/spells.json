@@ -1,0 +1,515 @@
+[
+    {
+        "name": "Wind strike",
+        "description": "A strength 1 missile attack",
+        "level": 1,
+        "type": "offensive",
+        "runes": [
+            { "id": 33, "amount": 1 },
+            { "id": 35, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Confuse",
+        "description": "Reduces your opponents attack by 5%",
+        "level": 3,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 3 },
+            { "id": 34, "amount": 2 },
+            { "id": 36, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Water strike",
+        "description": "A strength 2 missile attack",
+        "level": 5,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 1 },
+            { "id": 33, "amount": 1 },
+            { "id": 35, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enchant lvl-1 amulet",
+        "description": "For use on sapphire amulets",
+        "level": 7,
+        "type": "inventory",
+        "runes": [
+            { "id": 32, "amount": 1 },
+            { "id": 46, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Earth strike",
+        "description": "A strength 3 missile attack",
+        "level": 9,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 2 },
+            { "id": 33, "amount": 1 },
+            { "id": 35, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Weaken",
+        "description": "Reduces your opponents strength by 5%",
+        "level": 11,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 3 },
+            { "id": 34, "amount": 2 },
+            { "id": 36, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Fire strike",
+        "description": "A strength 4 missile attack",
+        "level": 13,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 3 },
+            { "id": 33, "amount": 2 },
+            { "id": 35, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Bones to bananas",
+        "description": "Changes all held bones into bananas!",
+        "level": 15,
+        "type": "self",
+        "runes": [
+            { "id": 34, "amount": 2 },
+            { "id": 32, "amount": 2 },
+            { "id": 40, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Wind bolt",
+        "description": "A strength 5 missile attack",
+        "level": 17,
+        "type": "offensive",
+        "runes": [
+            { "id": 33, "amount": 2 },
+            { "id": 41, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Curse",
+        "description": "Reduces your opponents defense by 5%",
+        "level": 19,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 2 },
+            { "id": 34, "amount": 3 },
+            { "id": 36, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Low level alchemy",
+        "description": "Converts an item into gold",
+        "level": 21,
+        "type": "inventory",
+        "runes": [
+            { "id": 31, "amount": 3 },
+            { "id": 40, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Water bolt",
+        "description": "A strength 6 missile attack",
+        "level": 23,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 2 },
+            { "id": 33, "amount": 2 },
+            { "id": 41, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Varrock teleport",
+        "description": "Teleports you to Varrock",
+        "level": 25,
+        "type": "self",
+        "runes": [
+            { "id": 31, "amount": 1 },
+            { "id": 33, "amount": 3 },
+            { "id": 42, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enchant lvl-2 amulet",
+        "description": "For use on emerald amulets",
+        "level": 27,
+        "type": "inventory",
+        "runes": [
+            { "id": 33, "amount": 3 },
+            { "id": 46, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Earth bolt",
+        "description": "A strength 7 missile attack",
+        "level": 29,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 3 },
+            { "id": 33, "amount": 2 },
+            { "id": 41, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Lumbridge teleport",
+        "description": "Teleports you to Lumbridge",
+        "level": 31,
+        "type": "self",
+        "runes": [
+            { "id": 34, "amount": 1 },
+            { "id": 33, "amount": 3 },
+            { "id": 42, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Telekinetic grab",
+        "description": "Take an item you can see but can't reach",
+        "level": 33,
+        "type": "inventory",
+        "runes": [
+            { "id": 33, "amount": 1 },
+            { "id": 42, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Fire bolt",
+        "description": "A strength 8 missile attack",
+        "level": 35,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 4 },
+            { "id": 33, "amount": 3 },
+            { "id": 41, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Falador teleport",
+        "description": "Teleports you to Falador",
+        "level": 37,
+        "type": "self",
+        "runes": [
+            { "id": 32, "amount": 1 },
+            { "id": 33, "amount": 3 },
+            { "id": 42, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Crumble undead",
+        "description": "Hits skeleton, ghosts & zombies hard!",
+        "level": 39,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 2 },
+            { "id": 33, "amount": 2 },
+            { "id": 41, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Wind blast",
+        "description": "A strength 9 missile attack",
+        "level": 41,
+        "type": "offensive",
+        "runes": [
+            { "id": 33, "amount": 3 },
+            { "id": 38, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Superheat item",
+        "description": "Smelt 1 ore without a furnace",
+        "level": 43,
+        "type": "inventory",
+        "runes": [
+            { "id": 31, "amount": 4 },
+            { "id": 40, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Camelot teleport",
+        "description": "Teleports you to Camelot",
+        "level": 45,
+        "type": "self",
+        "runes": [
+            { "id": 33, "amount": 5 },
+            { "id": 42, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Water blast",
+        "description": "A strength 10 missile attack",
+        "level": 47,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 3 },
+            { "id": 33, "amount": 3 },
+            { "id": 38, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enchant lvl-3 amulet",
+        "description": "For use on ruby amulets",
+        "level": 49,
+        "type": "inventory",
+        "runes": [
+            { "id": 31, "amount": 5 },
+            { "id": 46, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Iban blast",
+        "description": "A strength 25 missile attack!",
+        "level": 50,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 5 },
+            { "id": 38, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Ardougne teleport",
+        "description": "Teleports you to Ardougne",
+        "level": 51,
+        "type": "self",
+        "runes": [
+            { "id": 32, "amount": 2 },
+            { "id": 42, "amount": 2 }
+        ]
+    },
+    {
+        "name": "Earth blast",
+        "description": "A strength 11 missile attack",
+        "level": 53,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 4 },
+            { "id": 33, "amount": 3 },
+            { "id": 38, "amount": 1 }
+        ]
+    },
+    {
+        "name": "High level alchemy",
+        "description": "Convert an item into more gold",
+        "level": 55,
+        "type": "inventory",
+        "runes": [
+            { "id": 31, "amount": 5 },
+            { "id": 40, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Charge Water Orb",
+        "description": "Needs to be cast on a water obelisk",
+        "level": 56,
+        "type": "object",
+        "runes": [
+            { "id": 32, "amount": 30 },
+            { "id": 46, "amount": 3 },
+            { "id": 611, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enchant lvl-4 amulet",
+        "description": "For use on diamond amulets",
+        "level": 57,
+        "type": "inventory",
+        "runes": [
+            { "id": 34, "amount": 10 },
+            { "id": 46, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Watchtower teleport",
+        "description": "Teleports you to the watchtower",
+        "level": 58,
+        "type": "self",
+        "runes": [
+            { "id": 34, "amount": 2 },
+            { "id": 42, "amount": 2 }
+        ]
+    },
+    {
+        "name": "Fire blast",
+        "description": "A strength 12 missile attack",
+        "level": 59,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 5 },
+            { "id": 33, "amount": 4 },
+            { "id": 38, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Claws of Guthix",
+        "description": "Summons the power of Guthix",
+        "level": 60,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 1 },
+            { "id": 33, "amount": 4 },
+            { "id": 619, "amount": 2 }
+        ]
+    },
+    {
+        "name": "Saradomin strike",
+        "description": "Summons the power of Saradomin",
+        "level": 60,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 2 },
+            { "id": 33, "amount": 4 },
+            { "id": 619, "amount": 2 }
+        ]
+    },
+    {
+        "name": "Flames of Zamorak",
+        "description": "Summons the power of Zamorak",
+        "level": 60,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 4 },
+            { "id": 33, "amount": 1 },
+            { "id": 619, "amount": 2 }
+        ]
+    },
+    {
+        "name": "Charge earth Orb",
+        "description": "Needs to be cast on an earth obelisk",
+        "level": 60,
+        "type": "object",
+        "runes": [
+            { "id": 34, "amount": 30 },
+            { "id": 46, "amount": 3 },
+            { "id": 611, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Wind wave",
+        "description": "A strength 13 missile attack",
+        "level": 62,
+        "type": "offensive",
+        "runes": [
+            { "id": 33, "amount": 5 },
+            { "id": 619, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Charge Fire Orb",
+        "description": "Needs to be cast on a fire obelisk",
+        "level": 63,
+        "type": "object",
+        "runes": [
+            { "id": 31, "amount": 30 },
+            { "id": 46, "amount": 3 },
+            { "id": 611, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Water wave",
+        "description": "A strength 14 missile attack",
+        "level": 65,
+        "type": "offensive",
+        "runes": [
+            { "id": 32, "amount": 7 },
+            { "id": 33, "amount": 5 },
+            { "id": 619, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Charge air Orb",
+        "description": "Needs to be cast on an air obelisk",
+        "level": 66,
+        "type": "object",
+        "runes": [
+            { "id": 33, "amount": 30 },
+            { "id": 46, "amount": 3 },
+            { "id": 611, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Vulnerability",
+        "description": "Reduces your opponents defense by 10%",
+        "level": 66,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 5 },
+            { "id": 32, "amount": 5 },
+            { "id": 825, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enchant lvl-5 amulet",
+        "description": "For use on dragonstone amulets",
+        "level": 68,
+        "type": "inventory",
+        "runes": [
+            { "id": 32, "amount": 15 },
+            { "id": 34, "amount": 15 },
+            { "id": 46, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Earth wave",
+        "description": "A strength 15 missile attack",
+        "level": 70,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 7 },
+            { "id": 33, "amount": 5 },
+            { "id": 619, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Enfeeble",
+        "description": "Reduces your opponents strength by 10%",
+        "level": 73,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 8 },
+            { "id": 32, "amount": 8 },
+            { "id": 825, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Fire wave",
+        "description": "A strength 16 missile attack",
+        "level": 75,
+        "type": "offensive",
+        "runes": [
+            { "id": 31, "amount": 7 },
+            { "id": 33, "amount": 5 },
+            { "id": 619, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Stun",
+        "description": "Reduces your opponents attack by 10%",
+        "level": 80,
+        "type": "offensive",
+        "runes": [
+            { "id": 34, "amount": 12 },
+            { "id": 32, "amount": 12 },
+            { "id": 825, "amount": 1 }
+        ]
+    },
+    {
+        "name": "Charge",
+        "description": "Increase your mage arena spells damage",
+        "level": 80,
+        "type": "self",
+        "runes": [
+            { "id": 31, "amount": 3 },
+            { "id": 33, "amount": 3 },
+            { "id": 619, "amount": 3 }
+        ]
+    }
+]
+

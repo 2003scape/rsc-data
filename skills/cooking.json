@@ -1,0 +1,414 @@
+{
+    "gauntlets": {
+        "369": 1.05,
+        "372": 1.15,
+        "545": 1.125
+    },
+    "uncooked": {
+        "133": {
+            "level": 1,
+            "experience": 120,
+            "cooked": 132,
+            "burnt": 134,
+            "roll": [128, 512],
+            "range": false
+        },
+        "137": {
+            "level": 1,
+            "experience": 160,
+            "cooked": 138,
+            "burnt": 139,
+            "roll": [118, 492],
+            "range": true
+        },
+        "254": {
+            "level": 30,
+            "experience": 400,
+            "cooked": 257,
+            "burnt": 260,
+            "roll": [58, 372],
+            "range": true
+        },
+        "255": {
+            "level": 20,
+            "experience": 320,
+            "cooked": 259,
+            "burnt": 260,
+            "roll": [78, 412],
+            "range": true
+        },
+        "256": {
+            "level": 10,
+            "experience": 240,
+            "cooked": 258,
+            "burnt": 260,
+            "roll": [98, 452],
+            "range": true
+        },
+        "324": {
+            "level": 35,
+            "experience": 440,
+            "burnt": 322,
+            "roll": [48, 352],
+            "range": true
+        },
+        "339": {
+            "level": 40,
+            "experience": 480,
+            "cooked": 300,
+            "burnt": 331,
+            "roll": [38, 332],
+            "range": true
+        },
+        "345": {
+            "level": 25,
+            "experience": 360,
+            "cooked": 346,
+            "burnt": 347,
+            "roll": [68, 392],
+            "range": false
+        },
+        "349": {
+            "level": 1,
+            "experience": 120,
+            "cooked": 350,
+            "burnt": 353,
+            "roll": [128, 512],
+            "range": false
+        },
+        "351": {
+            "level": 1,
+            "experience": 120,
+            "cooked": 352,
+            "burnt": 353,
+            "roll": [128, 512],
+            "range": false
+        },
+        "354": {
+            "level": 1,
+            "experience": 160,
+            "cooked": 355,
+            "burnt": 360,
+            "roll": [118, 492],
+            "range": false
+        },
+        "356": {
+            "level": 25,
+            "experience": 360,
+            "cooked": 357,
+            "burnt": 360,
+            "roll": [68, 392],
+            "range": false
+        },
+        "358": {
+            "level": 15,
+            "experience": 280,
+            "cooked": 359,
+            "burnt": 360,
+            "roll": [88, 432],
+            "range": false
+        },
+        "363": {
+            "level": 20,
+            "experience": 320,
+            "cooked": 364,
+            "burnt": 365,
+            "roll": [78, 412],
+            "range": false
+        },
+        "361": {
+            "level": 5,
+            "experience": 200,
+            "cooked": 362,
+            "burnt": 365,
+            "perfect": 41,
+            "roll": [108, 427],
+            "range": false
+        },
+        "366": {
+            "level": 30,
+            "experience": 400,
+            "cooked": 367,
+            "burnt": 368,
+            "roll": [58, 327],
+            "range": false
+        },
+        "369": {
+            "level": 45,
+            "experience": 560,
+            "cooked": 370,
+            "burnt": 371,
+            "roll": [42, 290],
+            "range": false
+        },
+        "372": {
+            "level": 40,
+            "experience": 480,
+            "cooked": 373,
+            "burnt": 374,
+            "roll": [38, 332],
+            "range": false
+        },
+        "502": { "reference": 133 },
+        "503": { "reference": 133 },
+        "504": { "reference": 133 },
+        "545": {
+            "level": 80,
+            "experience": 840,
+            "cooked": 546,
+            "burnt": 547,
+            "roll": [1, 240],
+            "range": false
+        },
+        "550": {
+            "level": 18,
+            "experience": 300,
+            "cooked": 551,
+            "burnt": 365,
+            "roll": [82, 414],
+            "range": false
+        },
+        "552": {
+            "level": 10,
+            "experience": 240,
+            "cooked": 553,
+            "burnt": 353,
+            "roll": [98, 452],
+            "range": false
+        },
+        "554": {
+            "level": 43,
+            "experience": 520,
+            "cooked": 555,
+            "burnt": 368,
+            "roll": [28, 312],
+            "range": false
+        },
+        "591": {
+            "level": 53,
+            "experience": 560,
+            "cooked": 590,
+            "burnt": 590,
+            "roll": [256, 256],
+            "range": false
+        },
+        "708": {
+            "level": 60,
+            "experience": 500,
+            "cooked": 709,
+            "burnt": 710,
+            "roll": [1, 344],
+            "range": false
+        },
+        "717": {
+            "level": 10,
+            "experience": 240,
+            "cooked": 718,
+            "burnt": 365,
+            "roll": [98, 452],
+            "range": false
+        },
+        "1104": {
+            "level": 58,
+            "experience": 160,
+            "cooked": 1105,
+            "burnt": 1110,
+            "roll": [256, 256],
+            "range": true
+        },
+        "1190": {
+            "level": 91,
+            "experience": 864,
+            "cooked": 1191,
+            "burnt": 1247,
+            "roll": [1, 198],
+            "range": false
+        },
+        "1192": {
+            "level": 82,
+            "experience": 846,
+            "cooked": 1193,
+            "burnt": 1248,
+            "roll": [1, 246],
+            "range": false
+        },
+        "1280": {
+            "level": 50,
+            "experience": 120,
+            "cooked": 1269,
+            "burnt": 1281,
+            "perfect": [256, 256],
+            "range": false
+        }
+    },
+    "combinations": [
+        {
+            "level": 58,
+            "item": 320,
+            "with": 342,
+            "result": 1106,
+            "knife": true,
+            "message": "You cut the tomato into the bowl"
+        },
+        {
+            "level": 58,
+            "item": 241,
+            "with": 1106,
+            "result": 1108,
+            "knife": true,
+            "message": "You cut the onion into the tomato mixture"
+        },
+        {
+            "level": 58,
+            "item": 241,
+            "with": 342,
+            "result": 1107,
+            "knife": true,
+            "message": "You cut the onion into the bowl"
+        },
+        {
+            "level": 58,
+            "item": 320,
+            "with": 1107,
+            "result": 1108,
+            "knife": true,
+            "message": "You cut the tomato into the onion mixture"
+        },
+        {
+            "level": 58,
+            "item": 1103,
+            "with": 1108,
+            "result": 1109,
+            "knife": true,
+            "message": "You cut the ugthanki meat into the tomato and onion mixture"
+        },
+        {
+            "level": 25,
+            "item": 132,
+            "with": 342,
+            "result": 344,
+            "knife": true,
+            "message": "You cut up the meat and put it into the bowl"
+        },
+        {
+            "level": 25,
+            "item": 348,
+            "with": 342,
+            "result": 343,
+            "knife": true,
+            "message": "You cut up the potato and put it into the bowl"
+        },
+        {
+            "level": 25,
+            "item": 348,
+            "with": 344,
+            "result": 345,
+            "knife": true,
+            "message": "You cut up the potato and put it into the stew"
+        },
+        {
+            "level": 25,
+            "item": 132,
+            "with": 343,
+            "result": 345,
+            "knife": true,
+            "message": "You cut up the meat and put it into the stew"
+        },
+        {
+            "level": 60,
+            "item": 707,
+            "with": 345,
+            "result": 708,
+            "knife": false,
+            "message": "You add spice to the stew and make a curry"
+        },
+        {
+            "level": 1,
+            "item": 250,
+            "with": 251,
+            "result": 253,
+            "knife": false,
+            "message": "You put the dough in the pie dish to make a pie shell"
+        },
+        {
+            "level": 30,
+            "item": 257,
+            "with": 253,
+            "result": 254,
+            "knife": false,
+            "message": "You fill your pie with apples"
+        },
+        {
+            "level": 20,
+            "item": 132,
+            "with": 253,
+            "result": 255,
+            "knife": false,
+            "message": "You fill your pie with meat"
+        },
+        {
+            "level": 10,
+            "item": 236,
+            "with": 253,
+            "result": 256,
+            "knife": false,
+            "message": "You fill your pie with redberries"
+        },
+        {
+            "level": 50,
+            "item": 337,
+            "with": 330,
+            "result": 332,
+            "knife": false,
+            "message": "You make a chocolate cake!"
+        },
+        {
+            "level": 35,
+            "item": 320,
+            "with": 321,
+            "result": 323,
+            "knife": false,
+            "message": "You add tomato to the pizza"
+        },
+        {
+            "level": 35,
+            "item": 319,
+            "with": 323,
+            "result": 324,
+            "knife": false,
+            "message": "You add cheese to the pizza"
+        },
+        {
+            "level": 45,
+            "item": 132,
+            "with": 325,
+            "result": 326,
+            "knife": false,
+            "message": "You add the meat to the pizza"
+        },
+        {
+            "level": 55,
+            "item": 352,
+            "with": 325,
+            "result": 327,
+            "knife": false,
+            "message": "You add the anchovies to the pizza"
+        },
+        {
+            "level": 65,
+            "item": 749,
+            "with": 325,
+            "result": 750,
+            "knife": false,
+            "message": "You add the pineapple to the pizza"
+        },
+        {
+            "level": 65,
+            "item": 862,
+            "with": 325,
+            "result": 750,
+            "knife": false,
+            "message": "You add the pineapple to the pizza"
+        }
+    ]
+}

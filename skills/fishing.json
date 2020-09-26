@@ -1,0 +1,99 @@
+{
+    "spots": {
+        "192": {
+            "lure": {
+                "tool": 378,
+                "bait": 381,
+                "fish": {
+                    "356": { "level": 30, "experience": 280, "roll": [16, 96] },
+                    "358": { "level": 20, "experience": 200, "roll": [32, 192] }
+                }
+            },
+            "bait": {
+                "tool": 377,
+                "bait": 380,
+                "fish": {
+                    "363": { "level": 25, "experience": 240, "roll": [16, 96] }
+                }
+            }
+        },
+        "193": {
+            "net": {
+                "tool": 376,
+                "bait": null,
+                "fish": {
+                    "349": { "level": 1, "experience": 40, "roll": [48, 256] },
+                    "351": { "level": 15, "experience": 160, "roll": [24, 128] }
+                }
+            },
+            "bait": {
+                "tool": 377,
+                "bait": 380,
+                "fish": {
+                    "354": { "level": 5, "experience": 80, "roll": [32, 192] },
+                    "361": { "level": 10, "experience": 120, "roll": [24, 128] }
+                }
+            }
+        },
+        "194": {
+            "harpoon": {
+                "tool": 379,
+                "bait": null,
+                "fish": {
+                    "366": { "level": 35, "experience": 320, "roll": [8, 64] },
+                    "369": { "level": 50, "experience": 400, "roll": [4, 48] }
+                }
+            },
+            "cage": {
+                "tool": 375,
+                "bait": null,
+                "fish": {
+                    "372": { "level": 40, "experience": 360, "roll": [6, 95] }
+                }
+            }
+        },
+        "261": {
+            "net": {
+                "tool": 548,
+                "bait": null,
+                "fish": {
+                    "16": { "level": 16, "experience": 4,  "roll": [10, 10] },
+                    "17": { "level": 16, "experience": 4,  "roll": [10, 10] },
+                    "554": { "level": 46, "experience": 400, "roll": [3, 40] },
+                    "549": { "level": 16, "experience": 40, "roll": [1, 2] },
+                    "550": { "level": 23, "experience": 180, "roll": [4, 55] },
+                    "552": { "level": 16, "experience": 80,  "roll": [5, 65] },
+                    "662": { "level": 16, "experience": 4,  "roll": [10, 10] },
+                    "793": { "level": 16, "experience": 40,  "roll": [3, 7] }
+                }
+            },
+            "harpoon": {
+                "tool": 379,
+                "bait": null,
+                "fish": {
+                    "545": { "level": 76, "experience": 440, "roll": [3, 40] }
+                }
+            }
+        },
+        "271": {
+            "bait": {
+                "tool": 589,
+                "bait": 380,
+                "fish": {
+                    "591": { "level": 53, "experience": 360, "roll": [16, 96] }
+                }
+            }
+        },
+        "376": { "reference": 194 },
+        "493": {
+            "net": {
+                "tool": 376,
+                "bait": null,
+                "fish": {
+                    "349": { "level": 1, "experience": 40, "roll": [48, 256] }
+                }
+            }
+        },
+        "557": { "reference": 194 }
+    }
+}

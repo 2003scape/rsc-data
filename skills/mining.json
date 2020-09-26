@@ -1,0 +1,128 @@
+{
+    "pickaxes": {
+        "156": { "level": 1, "attempts": 1 },
+        "1258": { "level": 1, "attempts": 2 },
+        "1259": { "level": 6, "attempts": 3 },
+        "1260": { "level": 21, "attempts": 5 },
+        "1261": { "level": 31, "attempts": 8 },
+        "1262": { "level": 41, "attempts": 12 }
+    },
+    "gem": [
+        { "id": 160, "weight": 64 },
+        { "id": 159, "weight": 32 },
+        { "id": 158, "weight": 16 },
+        { "id": 157, "weight": 8 }
+    ],
+    "rocks": {
+        "100": {
+            "level": 1,
+            "experience": 70,
+            "ore": 150,
+            "respawn": 5400,
+            "depleted": 9
+        },
+        "101": { "reference": 100 },
+        "102": {
+            "level": 15,
+            "experience": 140,
+            "ore": 151,
+            "respawn": { "min": 4000, "max": 7000 },
+            "depleted": 14
+        },
+        "103": { "reference": 102 },
+        "104": {
+            "level": 1,
+            "experience": 70,
+            "ore": 202,
+            "respawn": 5400,
+            "depleted": 9
+        },
+        "105": { "reference": 104 },
+        "106": {
+            "level": 55,
+            "experience": 320,
+            "ore": 153,
+            "respawn": { "min": 110000, "max": 130000 },
+            "depleted": 29
+        },
+        "107": { "reference": 106 },
+        "108": {
+            "level": 70,
+            "experience": 380,
+            "ore": 154,
+            "respawn": { "min": 180000, "max": 220000 },
+            "depleted": 49
+        },
+        "109": { "reference": 108 },
+        "110": {
+            "level": 30,
+            "experience": 200,
+            "ore": 155,
+            "respawn": 25000,
+            "depleted": 19
+        },
+        "111": { "reference": 110 },
+        "112": {
+            "level": 40,
+            "experience": 260,
+            "ore": 152,
+            "respawn": { "min": 50000, "max": 70000 },
+            "depleted": 24
+        },
+        "113": { "reference": 112 },
+        "114": {
+            "level": 1,
+            "experience": 20,
+            "ore": 149,
+            "respawn": 2400,
+            "depleted": 9
+        },
+        "115": { "reference": 114 },
+        "176": {
+            "level": 10,
+            "ore": 266,
+            "experience": 70,
+            "respawn": { "min": 511000, "max": 513000 },
+            "depleted": 9
+        },
+        "195": {
+            "level": 20,
+            "experience": 160,
+            "ore": 383,
+            "respawn": { "min": 50000, "max": 70000 },
+            "depleted": 17
+        },
+        "196": { "reference": 195 },
+        "210": {
+            "level": 85,
+            "experience": 500,
+            "ore": 409,
+            "respawn": { "min": 720000, "max": 900000 },
+            "depleted": 79
+        },
+        "211": { "reference": 210 },
+        "315": { "reference": 112 },
+        "588": {
+            "level": 40,
+            "experience": 200,
+            "ore": [
+                { "id": 891, "weight": 60 },
+                { "id": 890, "weight": 30 },
+                { "id": 889, "weight": 15 },
+                { "id": 160, "weight": 9 },
+                { "id": 159, "weight": 5 },
+                { "id": 158, "weight": 5 },
+                { "id": 157, "weight": 5 }
+            ],
+            "respawn": 2000,
+            "depleted": 98
+        },
+        "1030": {
+            "level": 1,
+            "experience": 0,
+            "ore": 986,
+            "depleted": 9,
+            "respawn": 9000
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "herbs": {
+        "165": { "level": 3, "experience": 10, "id": 444 },
+        "435": { "level": 5, "experience": 15, "id": 445 },
+        "436": { "level": 11, "experience": 20, "id": 446 },
+        "437": { "level": 20, "experience": 25, "id": 447 },
+        "438": { "level": 25, "experience": 30, "id": 448 },
+        "439": { "level": 40, "experience": 35, "id": 449 },
+        "440": { "level": 48, "experience": 40, "id": 450 },
+        "441": { "level": 54, "experience": 45, "id": 451 },
+        "442": { "level": 65, "experience": 50, "id": 452 },
+        "443": { "level": 70, "experience": 55, "id": 453 },
+        "933": { "level": 75, "experience": 60, "id": 934 }
+    },
+    "unfinished": {
+        "444": { "level": 3, "id": 454 },
+        "445": { "level": 5, "id": 455 },
+        "446": { "level": 12, "id": 456 },
+        "447": { "level": 22, "id": 457 },
+        "448": { "level": 25, "id": 458 },
+        "449": { "level": 40, "id": 459 },
+        "450": { "level": 48, "id": 460 },
+        "451": { "level": 54, "id": 461 },
+        "452": { "level": 65, "id": 462 },
+        "453": { "level": 70, "id": 463 },
+        "934": { "level": 75, "id": 935 }
+    },
+    "potions": {
+        "454": {
+            "270": { "level": 3, "experience": 100, "id": 474 },
+            "936": { "level": 14, "experience": 100, "id": 1052 }
+        },
+        "455": {
+            "566": { "level": 5, "experience": 150, "id": 566 }
+        },
+        "456": {
+            "220": { "level": 12, "experience": 200, "id": 221 }
+        },
+        "457": {
+            "219": { "level": 22, "experience": 250, "id": 477 },
+            "587": { "level": 25, "experience": 420, "id": 588 }
+        },
+        "458": {
+            "471": { "level": 30, "experience": 300, "id": 480 },
+            "469": { "level": 38, "experience": 350, "id": 483 }
+        },
+        "459": {
+            "270": { "level": 45, "experience": 400, "id": 486 },
+            "473": { "level": 48, "experience": 425, "id": 569 }
+        },
+        "460": {
+            "469": { "level": 50, "experience": 450, "id": 489 }
+        },
+        "461": {
+            "220": { "level": 55, "experience": 500, "id": 492 },
+            "472": { "level": 60, "experience": 550, "id": 572 }
+        },
+        "462": {
+            "471": { "level": 66, "experience": 600, "id": 495 }
+        },
+        "463": {
+            "501": { "level": 72, "experience": 650, "id": 498 }
+        },
+        "935": {
+            "936": { "level": 78, "experience": 700, "id": 963 }
+        },
+        "1052": {
+            "1051": { "level": 14, "experience": 100, "id": 1053 }
+        }
+    }
+}

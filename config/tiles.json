@@ -1,0 +1,108 @@
+[
+    {
+        "colour": "rgb(128, 128, 128)",
+        "texture": null,
+        "type": "ground",
+        "blocked": false
+    },
+    { "colour": null, "texture": 1, "type": "liquid", "blocked": true },
+    { "colour": null, "texture": 3, "type": "floor", "blocked": false },
+    { "colour": null, "texture": 3, "type": "bridge", "blocked": false },
+    {
+        "colour": "rgb(128, 128, 128)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    {
+        "colour": "rgb(216, 8, 32)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    { "colour": null, "texture": 25, "type": "liquid", "blocked": true },
+    {
+        "colour": "transparent",
+        "texture": null,
+        "type": "hole",
+        "blocked": true
+    },
+    {
+        "colour": "rgb(200, 200, 200)",
+        "texture": null,
+        "type": "ground",
+        "blocked": true
+    },
+    {
+        "colour": "rgb(0, 0, 0)",
+        "texture": null,
+        "type": "hole",
+        "blocked": true
+    },
+    { "colour": null, "texture": 31, "type": "liquid", "blocked": true },
+    { "colour": null, "texture": 3, "type": "bridge", "blocked": false },
+    {
+        "colour": "rgb(32, 104, 168)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    { "colour": null, "texture": 32, "type": "floor", "blocked": false },
+    {
+        "colour": "rgb(72, 0, 64)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    {
+        "colour": "rgb(24, 24, 24)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    { "colour": null, "texture": 15, "type": "floor", "blocked": false },
+    {
+        "colour": "rgb(0, 0, 8)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    {
+        "colour": "rgb(0, 0, 0)",
+        "texture": null,
+        "type": "liquid",
+        "blocked": true
+    },
+    {
+        "colour": "rgb(0, 0, 8)",
+        "texture": null,
+        "type": "bridge",
+        "blocked": false
+    },
+    {
+        "colour": "rgb(0, 0, 8)",
+        "texture": null,
+        "type": "bridge",
+        "blocked": true
+    },
+    {
+        "colour": "rgb(0, 0, 8)",
+        "texture": null,
+        "type": null,
+        "blocked": false
+    },
+    {
+        "colour": "rgb(136, 96, 0)",
+        "texture": null,
+        "type": "floor",
+        "blocked": false
+    },
+    {
+        "colour": "rgb(112, 64, 8)",
+        "texture": null,
+        "type": "ground",
+        "blocked": true
+    },
+    { "colour": null, "texture": 1, "type": "liquid", "blocked": false }
+]
+

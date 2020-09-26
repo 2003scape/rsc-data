@@ -1,0 +1,45 @@
+{
+    "spinach": [
+        { "id": 179, "weight": 0 },
+        { "id": 10, "amount": 2000, "weight": 0 }
+    ],
+    "runes": [
+        { "id": 33, "amount": 50, "weight": 0 },
+        { "id": 32, "amount": 50, "weight": 0 },
+        { "id": 34, "amount": 50, "weight": 0 },
+        { "id": 31, "amount": 50, "weight": 0 },
+        { "id": 36, "amount": 50, "weight": 0 },
+        { "id": 35, "amount": 50, "weight": 0 },
+        { "id": 41, "amount": 10, "weight": 0 },
+        { "id": 38, "amount": 10, "weight": 0 },
+        { "id": 46, "amount": 10, "weight": 0 },
+        { "id": 40, "amount": 10, "weight": 0 },
+        { "id": 42, "amount": 10, "weight": 0 }
+    ],
+    "gems": [
+        { "id": 162, "amount": 2, "weight": 0 },
+        { "id": 161, "amount": 2, "weight": 0 }
+    ],
+    "key": [
+        { "id": 10, "amount": 750, "weight": 0 },
+        { "id": 526, "weight": 64 },
+        { "id": 527, "weight": 64 }
+    ],
+    "swordfish": [
+        { "id": 370, "amount": 5, "weight": 0 },
+        { "id": 10, "amount": 1000, "weight": 0 }
+    ],
+    "chest": [
+        { "id": 542, "weight": 0 },
+        { "reference": "spinach", "weight": 34 },
+        { "reference": "runes", "weight": 12 },
+        { "reference": "gems", "weight": 12 },
+        { "id": 408, "amount": 3, "weight": 12 },
+        { "reference": "key", "weight": 10 },
+        { "id": 517, "amount": 30, "weight": 10 },
+        { "id": 518, "amount": 20, "weight": 10 },
+        { "reference": "swordfish", "weight": 8 },
+        { "id": 127, "weight": 2 },
+        { "id": 402, "weight": 1 }
+    ]
+}

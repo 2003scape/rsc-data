@@ -1,0 +1,1606 @@
+[
+    {
+        "name": "head1",
+        "colour": "rgb(0, 0, 1)",
+        "genderModel": 13,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "body1",
+        "colour": "rgb(0, 0, 2)",
+        "genderModel": 6,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "legs1",
+        "colour": "rgb(0, 0, 3)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fhead1",
+        "colour": "rgb(0, 0, 1)",
+        "genderModel": 13,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fbody1",
+        "colour": "rgb(0, 0, 2)",
+        "genderModel": 10,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "head2",
+        "colour": "rgb(0, 0, 1)",
+        "genderModel": 13,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "head3",
+        "colour": "rgb(0, 0, 1)",
+        "genderModel": 5,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "head4",
+        "colour": "rgb(0, 0, 1)",
+        "genderModel": 13,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chefshat",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "apron",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "apron",
+        "colour": "rgb(149, 96, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(85, 85, 85)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fullhelm",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemailtop",
+        "colour": "rgb(153, 221, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(64, 64, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "platemaillegs",
+        "colour": "rgb(153, 221, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "leatherarmour",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "leathergloves",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "apron",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(37, 37, 37)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(64, 64, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(64, 204, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(238, 238, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(238, 153, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(170, 0, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(0, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(0, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(64, 64, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "necklace",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "necklace",
+        "colour": "rgb(255, 204, 76)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(0, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(64, 64, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wizardsrobe",
+        "colour": "rgb(160, 96, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(238, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wizardsrobe",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(160, 96, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(64, 64, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(244, 179, 243)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(238, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Skirt",
+        "colour": "rgb(128, 48, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(119, 102, 102)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(119, 119, 119)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(34, 66, 85)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(66, 85, 34)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(0, 102, 102)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(0, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(255, 153, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(173, 99, 49)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "crossbow",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": false,
+        "hasF": false
+    },
+    {
+        "name": "longbow",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": false,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(255, 102, 25)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(238, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(238, 238, 238)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(153, 178, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(178, 204, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mace",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "staff",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "rat",
+        "colour": "rgb(73, 82, 139)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "demon",
+        "colour": "rgb(250, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(204, 153, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(255, 64, 80)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "camel",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cow",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sheep",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": false,
+        "hasF": false
+    },
+    {
+        "name": "unicorn",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "bear",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chicken",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skeleton",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skelweap",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": true
+    },
+    {
+        "name": "zombie",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "zombweap",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": true
+    },
+    {
+        "name": "ghost",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "bat",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "goblin",
+        "colour": "rgb(136, 221, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "goblin",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "goblin",
+        "colour": "rgb(0, 187, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "gobweap",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": true
+    },
+    {
+        "name": "scorpion",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "dragon",
+        "colour": "rgb(0, 255, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "dragon",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "dragon",
+        "colour": "rgb(0, 85, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wolf",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wolf",
+        "colour": "rgb(153, 153, 153)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(255, 255, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(0, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(0, 255, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(255, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "partyhat",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "leathergloves",
+        "colour": "rgb(170, 238, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chicken",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "fplatemailtop",
+        "colour": "rgb(153, 221, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(17, 17, 17)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wolf",
+        "colour": "rgb(149, 96, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(0, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "battleaxe",
+        "colour": "rgb(255, 0, 68)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "sword",
+        "colour": "rgb(255, 0, 68)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "eyepatch",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": true
+    },
+    {
+        "name": "demon",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "dragon",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(221, 204, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wolf",
+        "colour": "rgb(34, 34, 34)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "unicorn",
+        "colour": "rgb(34, 34, 34)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "demon",
+        "colour": "rgb(96, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(34, 34, 34)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "necklace",
+        "colour": "rgb(48, 48, 48)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "rat",
+        "colour": "rgb(170, 170, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(171, 171, 171)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chainmail",
+        "colour": "rgb(171, 171, 171)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "legs1",
+        "colour": "rgb(149, 80, 64)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "gasmask",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "mediumhelm",
+        "colour": "rgb(255, 0, 68)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spider",
+        "colour": "rgb(58, 200, 38)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spear",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "halloweenmask",
+        "colour": "rgb(0, 204, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(16, 16, 16)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(16, 16, 16)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "halloweenmask",
+        "colour": "rgb(255, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "halloweenmask",
+        "colour": "rgb(0, 0, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(255, 170, 170)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(170, 255, 170)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(170, 170, 255)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(255, 255, 204)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(204, 255, 255)",
+        "genderModel": 15,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(255, 170, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(170, 255, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(170, 170, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(255, 255, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardshat",
+        "colour": "rgb(204, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(255, 170, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(170, 255, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(170, 170, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(255, 255, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(204, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wizardsrobe",
+        "colour": "rgb(60, 179, 113)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(60, 179, 113)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(255, 170, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(170, 255, 170)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(170, 170, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(255, 255, 204)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(204, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "santahat",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "ibanstaff",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "souless",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "legs1",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wizardsrobe",
+        "colour": "rgb(128, 128, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(128, 128, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Wolf",
+        "colour": "rgb(204, 200, 36)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "bunnyears",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "saradominstaff",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "spear",
+        "colour": "rgb(0, 221, 221)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "skirt",
+        "colour": "rgb(21, 63, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(21, 63, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wolf",
+        "colour": "rgb(85, 58, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "chicken",
+        "colour": "rgb(105, 47, 3)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "squareshield",
+        "colour": "rgb(206, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "cape",
+        "colour": "rgb(255, 255, 255)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "boots",
+        "colour": "rgb(17, 17, 17)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "wizardsrobe",
+        "colour": "rgb(17, 17, 17)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    },
+    {
+        "name": "Scythe",
+        "colour": "rgb(0, 0, 0)",
+        "genderModel": 0,
+        "hasA": true,
+        "hasF": false
+    }
+]
+

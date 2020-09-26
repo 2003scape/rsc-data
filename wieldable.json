@@ -1,0 +1,3201 @@
+{
+    "0": {
+        "female": false,
+        "animation": 118,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0
+    },
+    "2": {
+        "female": false,
+        "animation": 99,
+        "armour": 9,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "3": {
+        "female": false,
+        "animation": 99,
+        "armour": 8,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "4": {
+        "female": false,
+        "animation": 106,
+        "armour": 4,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "5": {
+        "female": false,
+        "animation": 71,
+        "armour": 4,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "6": {
+        "female": false,
+        "animation": 14,
+        "armour": 6,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "7": {
+        "female": false,
+        "animation": 22,
+        "armour": 12,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "8": {
+        "female": false,
+        "animation": 29,
+        "armour": 20,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "9": {
+        "female": false,
+        "animation": 38,
+        "armour": 10,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "12": {
+        "female": false,
+        "animation": 110,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "15": {
+        "female": false,
+        "animation": 46,
+        "armour": 6,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "16": {
+        "female": false,
+        "animation": 47,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "17": {
+        "female": false,
+        "animation": 12,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "24": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "28": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "45": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "52": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "59": {
+        "female": false,
+        "animation": 107,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "60": {
+        "female": false,
+        "animation": 107,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "62": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 4,
+        "weaponPower": 4,
+        "magic": 0,
+        "prayer": 0
+    },
+    "63": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "64": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 11,
+        "weaponPower": 11,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "65": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 15,
+        "weaponPower": 15,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "66": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 0,
+        "prayer": 0
+    },
+    "67": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 13,
+        "weaponPower": 13,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "68": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 18,
+        "weaponPower": 18,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "69": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 25,
+        "weaponPower": 25,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "70": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 7,
+        "magic": 0,
+        "prayer": 0
+    },
+    "71": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "72": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 16,
+        "weaponPower": 16,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "73": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 22,
+        "weaponPower": 22,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "74": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 31,
+        "weaponPower": 31,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "75": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 49,
+        "weaponPower": 49,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "76": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "77": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 14,
+        "weaponPower": 14,
+        "magic": 0,
+        "prayer": 0
+    },
+    "78": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 22,
+        "weaponPower": 22,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "79": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 31,
+        "weaponPower": 31,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "80": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 44,
+        "weaponPower": 44,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "81": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 70,
+        "weaponPower": 70,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "82": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 0,
+        "prayer": 0
+    },
+    "83": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 9,
+        "weaponPower": 9,
+        "magic": 0,
+        "prayer": 0
+    },
+    "84": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 14,
+        "weaponPower": 14,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "85": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 20,
+        "weaponPower": 20,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "86": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 28,
+        "weaponPower": 28,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "87": {
+        "female": false,
+        "animation": 109,
+        "armour": 0,
+        "weaponAim": 4,
+        "weaponPower": 4,
+        "magic": 0,
+        "prayer": 0
+    },
+    "88": {
+        "female": false,
+        "animation": 111,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "89": {
+        "female": false,
+        "animation": 110,
+        "armour": 0,
+        "weaponAim": 9,
+        "weaponPower": 9,
+        "magic": 0,
+        "prayer": 0
+    },
+    "90": {
+        "female": false,
+        "animation": 111,
+        "armour": 0,
+        "weaponAim": 15,
+        "weaponPower": 15,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "91": {
+        "female": false,
+        "animation": 112,
+        "armour": 0,
+        "weaponAim": 21,
+        "weaponPower": 21,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "92": {
+        "female": false,
+        "animation": 113,
+        "armour": 0,
+        "weaponAim": 30,
+        "weaponPower": 30,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "93": {
+        "female": false,
+        "animation": 114,
+        "armour": 0,
+        "weaponAim": 47,
+        "weaponPower": 47,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "94": {
+        "female": false,
+        "animation": 116,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "95": {
+        "female": false,
+        "animation": 118,
+        "armour": 0,
+        "weaponAim": 12,
+        "weaponPower": 12,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "96": {
+        "female": false,
+        "animation": 119,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 17,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "97": {
+        "female": false,
+        "animation": 120,
+        "armour": 0,
+        "weaponAim": 24,
+        "weaponPower": 24,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "98": {
+        "female": false,
+        "animation": 121,
+        "armour": 0,
+        "weaponAim": 38,
+        "weaponPower": 38,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "100": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 2,
+        "magic": 6,
+        "prayer": 0
+    },
+    "101": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 3,
+        "magic": 20,
+        "prayer": 0
+    },
+    "102": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 4,
+        "magic": 20,
+        "prayer": 0
+    },
+    "103": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 5,
+        "magic": 20,
+        "prayer": 0
+    },
+    "104": {
+        "female": false,
+        "animation": 70,
+        "armour": 3,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "105": {
+        "female": false,
+        "animation": 72,
+        "armour": 7,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "106": {
+        "female": false,
+        "animation": 73,
+        "armour": 10,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "107": {
+        "female": false,
+        "animation": 74,
+        "armour": 14,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "108": {
+        "female": false,
+        "animation": 13,
+        "armour": 4,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "109": {
+        "female": false,
+        "animation": 15,
+        "armour": 9,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "110": {
+        "female": false,
+        "animation": 16,
+        "armour": 13,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "111": {
+        "female": false,
+        "animation": 17,
+        "armour": 19,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "112": {
+        "female": false,
+        "animation": 18,
+        "armour": 30,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "113": {
+        "female": false,
+        "animation": 21,
+        "armour": 9,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "114": {
+        "female": false,
+        "animation": 23,
+        "armour": 19,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "115": {
+        "female": false,
+        "animation": 24,
+        "armour": 27,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "116": {
+        "female": false,
+        "animation": 25,
+        "armour": 38,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "117": {
+        "female": false,
+        "animation": 28,
+        "armour": 14,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "118": {
+        "female": false,
+        "animation": 30,
+        "armour": 31,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "119": {
+        "female": false,
+        "animation": 31,
+        "armour": 44,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "120": {
+        "female": false,
+        "animation": 32,
+        "armour": 63,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "121": {
+        "female": false,
+        "animation": 39,
+        "armour": 16,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "122": {
+        "female": false,
+        "animation": 40,
+        "armour": 22,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "123": {
+        "female": false,
+        "animation": 41,
+        "armour": 31,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "124": {
+        "female": false,
+        "animation": 98,
+        "armour": 5,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "125": {
+        "female": false,
+        "animation": 100,
+        "armour": 12,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "126": {
+        "female": false,
+        "animation": 101,
+        "armour": 17,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "127": {
+        "female": false,
+        "animation": 102,
+        "armour": 24,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "128": {
+        "female": false,
+        "animation": 98,
+        "armour": 6,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "129": {
+        "female": false,
+        "animation": 100,
+        "armour": 14,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "130": {
+        "female": false,
+        "animation": 101,
+        "armour": 20,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "131": {
+        "female": false,
+        "animation": 102,
+        "armour": 29,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "182": {
+        "female": false,
+        "animation": 10,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "183": {
+        "female": false,
+        "animation": 63,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "184": {
+        "female": false,
+        "animation": 77,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 6,
+        "prayer": 0
+    },
+    "185": {
+        "female": false,
+        "animation": 78,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 4,
+        "prayer": 0
+    },
+    "186": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "187": {
+        "female": false,
+        "animation": 82,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "188": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "189": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "191": {
+        "female": false,
+        "animation": 11,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "192": {
+        "female": false,
+        "animation": 9,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "194": {
+        "female": false,
+        "animation": 90,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "195": {
+        "female": false,
+        "animation": 89,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "196": {
+        "female": false,
+        "animation": 33,
+        "armour": 40,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "197": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 11,
+        "weaponPower": 6,
+        "magic": 20,
+        "prayer": 0
+    },
+    "198": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 12,
+        "weaponPower": 7,
+        "magic": 15,
+        "prayer": 0
+    },
+    "199": {
+        "female": false,
+        "animation": 79,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "203": {
+        "female": false,
+        "animation": 112,
+        "armour": 0,
+        "weaponAim": 12,
+        "weaponPower": 12,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "204": {
+        "female": false,
+        "animation": 113,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 17,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "205": {
+        "female": false,
+        "animation": 109,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 7,
+        "magic": 0,
+        "prayer": 0
+    },
+    "206": {
+        "female": false,
+        "animation": 37,
+        "armour": 7,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "209": {
+        "female": false,
+        "animation": 64,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "214": {
+        "female": false,
+        "animation": 92,
+        "armour": 7,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "215": {
+        "female": false,
+        "animation": 93,
+        "armour": 10,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "216": {
+        "female": false,
+        "animation": 83,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 5,
+        "prayer": 0
+    },
+    "217": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 3,
+        "weaponPower": 3,
+        "magic": 0,
+        "prayer": 0
+    },
+    "225": {
+        "female": false,
+        "animation": 94,
+        "armour": 16,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "226": {
+        "female": false,
+        "animation": 95,
+        "armour": 22,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "227": {
+        "female": false,
+        "animation": 96,
+        "armour": 31,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "229": {
+        "female": false,
+        "animation": 65,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "230": {
+        "female": false,
+        "animation": 19,
+        "armour": 12,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "235": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 4,
+        "weaponPower": 4,
+        "magic": 0,
+        "prayer": 0
+    },
+    "248": {
+        "female": false,
+        "animation": 43,
+        "armour": 21,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "265": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 11,
+        "weaponPower": 11,
+        "magic": 0,
+        "prayer": 0
+    },
+    "288": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "289": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "290": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "291": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "292": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "301": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "302": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "303": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "304": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "305": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "307": {
+        "female": false,
+        "animation": 117,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0
+    },
+    "308": {
+        "female": false,
+        "animation": 55,
+        "armour": 14,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "309": {
+        "female": false,
+        "animation": 57,
+        "armour": 31,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 5 }
+    },
+    "310": {
+        "female": false,
+        "animation": 58,
+        "armour": 44,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 20 }
+    },
+    "311": {
+        "female": false,
+        "animation": 59,
+        "armour": 63,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 30 }
+    },
+    "312": {
+        "female": false,
+        "animation": 56,
+        "armour": 20,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "313": {
+        "female": false,
+        "animation": 61,
+        "armour": 40,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "314": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 7,
+        "prayer": 0
+    },
+    "315": {
+        "female": false,
+        "animation": 81,
+        "armour": 7,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "316": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "317": {
+        "female": false,
+        "animation": 81,
+        "armour": 6,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 6,
+        "prayer": 0
+    },
+    "385": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 8
+    },
+    "388": {
+        "female": false,
+        "animation": 84,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 6
+    },
+    "389": {
+        "female": false,
+        "animation": 88,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 5
+    },
+    "396": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 25,
+        "weaponPower": 25,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "397": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 40,
+        "weaponPower": 40,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "398": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 44,
+        "weaponPower": 44,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "399": {
+        "female": false,
+        "animation": 75,
+        "armour": 22,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "400": {
+        "female": false,
+        "animation": 26,
+        "armour": 65,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "401": {
+        "female": false,
+        "animation": 34,
+        "armour": 80,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "402": {
+        "female": false,
+        "animation": 42,
+        "armour": 49,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "403": {
+        "female": false,
+        "animation": 103,
+        "armour": 38,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "404": {
+        "female": false,
+        "animation": 103,
+        "armour": 46,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "405": {
+        "female": false,
+        "animation": 114,
+        "armour": 0,
+        "weaponAim": 26,
+        "weaponPower": 26,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "406": {
+        "female": false,
+        "animation": 97,
+        "armour": 49,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "407": {
+        "female": false,
+        "animation": 60,
+        "armour": 80,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 40 }
+    },
+    "420": {
+        "female": false,
+        "animation": 105,
+        "armour": 8,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "423": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "424": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 16,
+        "weaponPower": 16,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "425": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 20,
+        "weaponPower": 20,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "426": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 28,
+        "weaponPower": 28,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "427": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 18,
+        "weaponPower": 18,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "428": {
+        "female": false,
+        "animation": 115,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "429": {
+        "female": false,
+        "animation": 115,
+        "armour": 0,
+        "weaponAim": 19,
+        "weaponPower": 19,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "430": {
+        "female": false,
+        "animation": 122,
+        "armour": 0,
+        "weaponAim": 15,
+        "weaponPower": 15,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "431": {
+        "female": false,
+        "animation": 27,
+        "armour": 24,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "432": {
+        "female": false,
+        "animation": 104,
+        "armour": 15,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "433": {
+        "female": false,
+        "animation": 104,
+        "armour": 18,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "434": {
+        "female": false,
+        "animation": 159,
+        "armour": 20,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "470": {
+        "female": false,
+        "animation": 76,
+        "armour": 9,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 10 }
+    },
+    "509": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 10,
+        "prayer": 0
+    },
+    "511": {
+        "female": false,
+        "animation": 66,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "512": {
+        "female": false,
+        "animation": 67,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "513": {
+        "female": false,
+        "animation": 68,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "514": {
+        "female": false,
+        "animation": 69,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "522": {
+        "female": false,
+        "animation": 81,
+        "armour": 3,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 3,
+        "prayer": 3
+    },
+    "544": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "556": {
+        "female": false,
+        "animation": 156,
+        "armour": 3,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "559": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "560": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 4,
+        "weaponPower": 4,
+        "magic": 0,
+        "prayer": 0
+    },
+    "561": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5 }
+    },
+    "562": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 11,
+        "weaponPower": 11,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20 }
+    },
+    "563": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 25,
+        "weaponPower": 25,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40 }
+    },
+    "564": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 15,
+        "weaponPower": 15,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30 }
+    },
+    "565": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 10 }
+    },
+    "576": {
+        "female": false,
+        "animation": 150,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "577": {
+        "female": false,
+        "animation": 151,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "578": {
+        "female": false,
+        "animation": 152,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "579": {
+        "female": false,
+        "animation": 153,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "580": {
+        "female": false,
+        "animation": 154,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "581": {
+        "female": false,
+        "animation": 155,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "593": {
+        "female": false,
+        "animation": 163,
+        "armour": 0,
+        "weaponAim": 71,
+        "weaponPower": 71,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 60 }
+    },
+    "594": {
+        "female": false,
+        "animation": 162,
+        "armour": 0,
+        "weaponAim": 69,
+        "weaponPower": 69,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 60 }
+    },
+    "597": {
+        "female": false,
+        "animation": 81,
+        "armour": 3,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 3,
+        "prayer": 3
+    },
+    "606": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 25,
+        "weaponPower": 25,
+        "magic": 0,
+        "prayer": 0
+    },
+    "607": {
+        "female": false,
+        "animation": 86,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 4
+    },
+    "608": {
+        "female": false,
+        "animation": 87,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 4
+    },
+    "609": {
+        "female": false,
+        "animation": 164,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "610": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "614": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 32,
+        "weaponPower": 32,
+        "magic": 6,
+        "prayer": 0,
+        "requirements": { "attack": 30, "magic": 30 }
+    },
+    "615": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 35,
+        "weaponPower": 35,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 30, "magic": 30 }
+    },
+    "616": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 35,
+        "weaponPower": 35,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 30, "magic": 30 }
+    },
+    "617": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 35,
+        "weaponPower": 35,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 30, "magic": 30 }
+    },
+    "618": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 35,
+        "weaponPower": 35,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 30, "magic": 30 }
+    },
+    "648": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 10 }
+    },
+    "649": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 5 }
+    },
+    "650": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 20 }
+    },
+    "651": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 15 }
+    },
+    "652": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 30 }
+    },
+    "653": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 25 }
+    },
+    "654": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 40 }
+    },
+    "655": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 35 }
+    },
+    "656": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 50 }
+    },
+    "657": {
+        "female": false,
+        "animation": 108,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 45 }
+    },
+    "682": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 50,
+        "weaponPower": 50,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 40, "magic": 40 }
+    },
+    "683": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 50,
+        "weaponPower": 50,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 40, "magic": 40 }
+    },
+    "684": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 50,
+        "weaponPower": 50,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 40, "magic": 40 }
+    },
+    "685": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 50,
+        "weaponPower": 50,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "attack": 40, "magic": 40 }
+    },
+    "693": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "698": {
+        "female": false,
+        "animation": 156,
+        "armour": 8,
+        "weaponAim": 2,
+        "weaponPower": 2,
+        "magic": 0,
+        "prayer": 0
+    },
+    "699": {
+        "female": false,
+        "animation": 156,
+        "armour": 8,
+        "weaponAim": 2,
+        "weaponPower": 2,
+        "magic": 0,
+        "prayer": 0
+    },
+    "700": {
+        "female": false,
+        "animation": 156,
+        "armour": 8,
+        "weaponAim": 2,
+        "weaponPower": 2,
+        "magic": 0,
+        "prayer": 0
+    },
+    "701": {
+        "female": false,
+        "animation": 156,
+        "armour": 8,
+        "weaponAim": 2,
+        "weaponPower": 2,
+        "magic": 0,
+        "prayer": 0
+    },
+    "702": {
+        "female": false,
+        "animation": 85,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 5,
+        "prayer": 3
+    },
+    "703": {
+        "female": false,
+        "animation": 91,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 5,
+        "prayer": 3
+    },
+    "721": {
+        "female": false,
+        "animation": 172,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "722": {
+        "female": false,
+        "animation": 227,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "725": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 7,
+        "magic": 0,
+        "prayer": 0
+    },
+    "726": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "733": {
+        "female": false,
+        "animation": 174,
+        "armour": 4,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "734": {
+        "female": false,
+        "animation": 175,
+        "armour": 10,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "744": {
+        "female": false,
+        "animation": 81,
+        "armour": 13,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "754": {
+        "female": false,
+        "animation": 110,
+        "armour": 0,
+        "weaponAim": 9,
+        "weaponPower": 9,
+        "magic": 0,
+        "prayer": 0
+    },
+    "760": {
+        "female": false,
+        "animation": 46,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "761": {
+        "female": false,
+        "animation": 177,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "766": {
+        "female": false,
+        "animation": 178,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "782": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "795": {
+        "female": false,
+        "animation": 179,
+        "armour": 34,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 60 }
+    },
+    "802": {
+        "female": false,
+        "animation": 86,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 4
+    },
+    "807": {
+        "female": false,
+        "animation": 228,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 3
+    },
+    "808": {
+        "female": false,
+        "animation": 159,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 3
+    },
+    "826": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "827": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "828": {
+        "female": false,
+        "animation": 182,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "831": {
+        "female": false,
+        "animation": 185,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "832": {
+        "female": false,
+        "animation": 186,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "836": {
+        "female": false,
+        "animation": 187,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "837": {
+        "female": false,
+        "animation": 188,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "838": {
+        "female": false,
+        "animation": 189,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "839": {
+        "female": false,
+        "animation": 190,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "840": {
+        "female": false,
+        "animation": 191,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "841": {
+        "female": false,
+        "animation": 192,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "842": {
+        "female": false,
+        "animation": 193,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "843": {
+        "female": false,
+        "animation": 194,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "844": {
+        "female": false,
+        "animation": 195,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "845": {
+        "female": false,
+        "animation": 196,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "846": {
+        "female": false,
+        "animation": 197,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "847": {
+        "female": false,
+        "animation": 198,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "848": {
+        "female": false,
+        "animation": 199,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "849": {
+        "female": false,
+        "animation": 200,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "850": {
+        "female": false,
+        "animation": 201,
+        "armour": 2,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "852": {
+        "female": false,
+        "animation": 80,
+        "armour": 1,
+        "weaponAim": 1,
+        "weaponPower": 1,
+        "magic": 1,
+        "prayer": 1
+    },
+    "966": {
+        "female": false,
+        "animation": 204,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "967": {
+        "female": false,
+        "animation": 205,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "968": {
+        "female": false,
+        "animation": 206,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "969": {
+        "female": false,
+        "animation": 207,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "970": {
+        "female": false,
+        "animation": 208,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "971": {
+        "female": false,
+        "animation": 209,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 3,
+        "prayer": 0
+    },
+    "990": {
+        "female": false,
+        "animation": 212,
+        "armour": 1,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1000": {
+        "female": false,
+        "animation": 210,
+        "armour": 0,
+        "weaponAim": 50,
+        "weaponPower": 50,
+        "magic": 20,
+        "prayer": 0,
+        "requirements": { "magic": 50 }
+    },
+    "1006": {
+        "female": false,
+        "animation": 156,
+        "armour": 8,
+        "weaponAim": 2,
+        "weaponPower": 2,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1009": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 3
+    },
+    "1010": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 3
+    },
+    "1011": {
+        "female": false,
+        "animation": 81,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 3
+    },
+    "1013": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1015": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1019": {
+        "female": false,
+        "animation": 87,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1020": {
+        "female": false,
+        "animation": 86,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1022": {
+        "female": false,
+        "animation": 215,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1023": {
+        "female": false,
+        "animation": 214,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1024": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 5 }
+    },
+    "1028": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1029": {
+        "female": false,
+        "animation": 80,
+        "armour": 1,
+        "weaponAim": 1,
+        "weaponPower": 1,
+        "magic": 0,
+        "prayer": 6
+    },
+    "1068": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 15 }
+    },
+    "1069": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 25 }
+    },
+    "1070": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 35 }
+    },
+    "1075": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 3,
+        "weaponPower": 3,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1076": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 3,
+        "weaponPower": 3,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1077": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 5, "ranged": 5 }
+    },
+    "1078": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 7,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 20, "ranged": 15 }
+    },
+    "1079": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 30, "ranged": 25 }
+    },
+    "1080": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 17,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "attack": 40, "ranged": 35 }
+    },
+    "1081": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1088": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1089": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 12,
+        "weaponPower": 12,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 5 }
+    },
+    "1090": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 17,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 15 }
+    },
+    "1091": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 25,
+        "weaponPower": 25,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 25 }
+    },
+    "1092": {
+        "female": false,
+        "animation": 220,
+        "armour": 0,
+        "weaponAim": 38,
+        "weaponPower": 38,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "ranged": 35 }
+    },
+    "1122": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1123": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1124": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1125": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1126": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1127": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1128": {
+        "female": false,
+        "animation": 48,
+        "armour": 0,
+        "weaponAim": 3,
+        "weaponPower": 3,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1129": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 3,
+        "weaponPower": 3,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1130": {
+        "female": false,
+        "animation": 50,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1131": {
+        "female": false,
+        "animation": 51,
+        "armour": 0,
+        "weaponAim": 7,
+        "weaponPower": 7,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1132": {
+        "female": false,
+        "animation": 54,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1133": {
+        "female": false,
+        "animation": 52,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1134": {
+        "female": false,
+        "animation": 53,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 17,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1135": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 6,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1136": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 8,
+        "weaponPower": 8,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1137": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 13,
+        "weaponPower": 13,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1138": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 17,
+        "weaponPower": 9,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1139": {
+        "female": false,
+        "animation": 181,
+        "armour": 0,
+        "weaponAim": 24,
+        "weaponPower": 14,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1140": {
+        "female": false,
+        "animation": 220,
+        "armour": 0,
+        "weaponAim": 38,
+        "weaponPower": 21,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1156": {
+        "female": false,
+        "animation": 218,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1172": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1194": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1205": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 1,
+        "weaponPower": 1,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1213": {
+        "female": false,
+        "animation": 63,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 10,
+        "prayer": 0
+    },
+    "1214": {
+        "female": false,
+        "animation": 65,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 10,
+        "prayer": 0
+    },
+    "1215": {
+        "female": false,
+        "animation": 66,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 10,
+        "prayer": 0
+    },
+    "1216": {
+        "female": false,
+        "animation": 210,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 2,
+        "magic": 6,
+        "prayer": 0,
+        "requirements": { "magic": 60 }
+    },
+    "1217": {
+        "female": false,
+        "animation": 123,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 2,
+        "magic": 6,
+        "prayer": 0,
+        "requirements": { "magic": 60 }
+    },
+    "1218": {
+        "female": false,
+        "animation": 219,
+        "armour": 0,
+        "weaponAim": 6,
+        "weaponPower": 2,
+        "magic": 6,
+        "prayer": 0,
+        "requirements": { "magic": 60 }
+    },
+    "1224": {
+        "female": false,
+        "animation": 80,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1230": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 1,
+        "weaponPower": 1,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1234": {
+        "female": false,
+        "animation": 77,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 6,
+        "prayer": 0
+    },
+    "1236": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 5,
+        "weaponPower": 5,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1237": {
+        "female": false,
+        "animation": 164,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1239": {
+        "female": false,
+        "animation": 0,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1255": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1256": {
+        "female": false,
+        "animation": 49,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1264": {
+        "female": false,
+        "animation": 78,
+        "armour": 0,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 4,
+        "prayer": 0
+    },
+    "1278": {
+        "female": false,
+        "animation": 225,
+        "armour": 50,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0,
+        "requirements": { "defense": 60 }
+    },
+    "1288": {
+        "female": false,
+        "animation": 226,
+        "armour": 7,
+        "weaponAim": 0,
+        "weaponPower": 0,
+        "magic": 0,
+        "prayer": 0
+    },
+    "1289": {
+        "female": false,
+        "animation": 229,
+        "armour": 0,
+        "weaponAim": 10,
+        "weaponPower": 10,
+        "magic": 0,
+        "prayer": 0
+    }
+}
+

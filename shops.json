@@ -1,0 +1,1463 @@
+{
+    "al-kharid-gem-stall": {
+        "items": [
+            { "id": 160, "amount": 1 },
+            { "id": 159, "amount": 1 },
+            { "id": 158, "amount": 0 },
+            { "id": 157, "amount": 0 },
+            { "id": 164, "amount": 1 },
+            { "id": 163, "amount": 1 },
+            { "id": 162, "amount": 0 },
+            { "id": 161, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 3,
+        "restock": 600000,
+        "general": false
+    },
+    "al-kharid-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "arheins-general": {
+        "items": [
+            { "id": 21, "amount": 10 },
+            { "id": 156, "amount": 2 },
+            { "id": 341, "amount": 2 },
+            { "id": 338, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 237, "amount": 2 },
+            { "id": 135, "amount": 2 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 15000,
+        "general": true
+    },
+    "auburys-rune": {
+        "items": [
+            { "id": 31, "amount": 50 },
+            { "id": 32, "amount": 50 },
+            { "id": 33, "amount": 50 },
+            { "id": 34, "amount": 50 },
+            { "id": 35, "amount": 50 },
+            { "id": 36, "amount": 50 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "bakers-stall": {
+        "items": [
+            { "id": 138, "amount": 10 },
+            { "id": 330, "amount": 3 },
+            { "id": 336, "amount": 8 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 80,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "bandit-camp-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 156, "amount": 5 },
+            { "id": 87, "amount": 10 }
+        ],
+        "sellMultiplier": 90,
+        "buyMultiplier": 60,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "bettys-magic-emporium": {
+        "items": [
+            { "id": 31, "amount": 30 },
+            { "id": 32, "amount": 30 },
+            { "id": 33, "amount": 30 },
+            { "id": 34, "amount": 30 },
+            { "id": 35, "amount": 30 },
+            { "id": 36, "amount": 30 },
+            { "id": 270, "amount": 30 },
+            { "id": 1264, "amount": 1 },
+            { "id": 185, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 75,
+        "delta": 2,
+        "restock": 6000,
+        "general": false
+    },
+    "blurberrys-bar": {
+        "items": [
+            { "id": 866, "amount": 10 },
+            { "id": 877, "amount": 10 },
+            { "id": 878, "amount": 10 },
+            { "id": 879, "amount": 10 },
+            { "id": 893, "amount": 10 },
+            { "id": 875, "amount": 10 },
+            { "id": 872, "amount": 10 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 25,
+        "delta": 1,
+        "restock": 3000,
+        "general": false
+    },
+    "bobs-axes": {
+        "items": [
+            { "id": 156, "amount": 5 },
+            { "id": 87, "amount": 10 },
+            { "id": 12, "amount": 5 },
+            { "id": 88, "amount": 3 },
+            { "id": 89, "amount": 5 },
+            { "id": 90, "amount": 2 },
+            { "id": 91, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "brians-battleaxe-bazaar": {
+        "items": [
+            { "id": 205, "amount": 4 },
+            { "id": 89, "amount": 3 },
+            { "id": 90, "amount": 2 },
+            { "id": 429, "amount": 1 },
+            { "id": 91, "amount": 1 },
+            { "id": 92, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 15000,
+        "general": false
+    },
+    "candle": {
+        "items": [{ "id": 599, "amount": 10 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 80,
+        "delta": 2,
+        "restock": 1000,
+        "general": false
+    },
+    "cassies-shields": {
+        "items": [
+            { "id": 4, "amount": 5 },
+            { "id": 124, "amount": 3 },
+            { "id": 128, "amount": 3 },
+            { "id": 3, "amount": 2 },
+            { "id": 2, "amount": 0 },
+            { "id": 125, "amount": 0 },
+            { "id": 129, "amount": 0 },
+            { "id": 126, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 25000,
+        "general": false
+    },
+    "davons-amulet": {
+        "items": [
+            { "id": 44, "amount": 0 },
+            { "id": 314, "amount": 1 },
+            { "id": 315, "amount": 0 },
+            { "id": 316, "amount": 0 },
+            { "id": 317, "amount": 0 }
+        ],
+        "sellMultiplier": 120,
+        "buyMultiplier": 90,
+        "delta": 2,
+        "restock": 900000000,
+        "general": false
+    },
+    "dommiks-crafting": {
+        "items": [
+            { "id": 167, "amount": 2 },
+            { "id": 293, "amount": 4 },
+            { "id": 295, "amount": 2 },
+            { "id": 294, "amount": 2 },
+            { "id": 39, "amount": 3 },
+            { "id": 43, "amount": 100 },
+            { "id": 386, "amount": 3 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 65,
+        "delta": 2,
+        "restock": 5000,
+        "general": false
+    },
+    "dragon-axe": {
+        "items": [{ "id": 594, "amount": 1 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 3,
+        "restock": 60000,
+        "general": false
+    },
+    "dragon-sword": {
+        "items": [{ "id": 593, "amount": 2 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "drogos-mining-emporium": {
+        "items": [
+            { "id": 168, "amount": 4 },
+            { "id": 156, "amount": 4 },
+            { "id": 150, "amount": 0 },
+            { "id": 202, "amount": 0 },
+            { "id": 151, "amount": 0 },
+            { "id": 155, "amount": 0 },
+            { "id": 169, "amount": 0 },
+            { "id": 170, "amount": 0 },
+            { "id": 172, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "dwarven-mine-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "east-ardougne-adventurers": {
+        "items": [
+            { "id": 464, "amount": 10 },
+            { "id": 156, "amount": 2 },
+            { "id": 12, "amount": 2 },
+            { "id": 132, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 207, "amount": 2 },
+            { "id": 11, "amount": 30 },
+            { "id": 237, "amount": 1 },
+            { "id": 982, "amount": 50 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 15000,
+        "general": true
+    },
+    "edgeville-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "entrana-herblaw": {
+        "items": [
+            { "id": 464, "amount": 50 },
+            { "id": 468, "amount": 3 },
+            { "id": 270, "amount": 50 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "falador-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "fancy-clothes": {
+        "items": [
+            { "id": 192, "amount": 0 },
+            { "id": 1264, "amount": 3 },
+            { "id": 239, "amount": 1 },
+            { "id": 541, "amount": 3 },
+            { "id": 146, "amount": 3 },
+            { "id": 39, "amount": 3 },
+            { "id": 43, "amount": 100 },
+            { "id": 16, "amount": 10 },
+            { "id": 17, "amount": 10 },
+            { "id": 807, "amount": 3 },
+            { "id": 808, "amount": 3 },
+            { "id": 191, "amount": 1 },
+            { "id": 194, "amount": 5 },
+            { "id": 195, "amount": 3 },
+            { "id": 187, "amount": 2 },
+            { "id": 183, "amount": 4 },
+            { "id": 609, "amount": 3 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "fernaheis-fishing": {
+        "items": [
+            { "id": 377, "amount": 5 },
+            { "id": 378, "amount": 5 },
+            { "id": 380, "amount": 200 },
+            { "id": 148, "amount": 200 },
+            { "id": 358, "amount": 0 },
+            { "id": 363, "amount": 0 },
+            { "id": 356, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "fine-fashions": {
+        "items": [
+            { "id": 836, "amount": 5 },
+            { "id": 837, "amount": 5 },
+            { "id": 838, "amount": 5 },
+            { "id": 839, "amount": 5 },
+            { "id": 840, "amount": 5 },
+            { "id": 841, "amount": 5 },
+            { "id": 842, "amount": 5 },
+            { "id": 843, "amount": 5 },
+            { "id": 844, "amount": 5 },
+            { "id": 845, "amount": 5 },
+            { "id": 846, "amount": 5 },
+            { "id": 847, "amount": 5 },
+            { "id": 848, "amount": 5 },
+            { "id": 849, "amount": 5 },
+            { "id": 850, "amount": 5 },
+            { "id": 966, "amount": 5 },
+            { "id": 967, "amount": 5 },
+            { "id": 968, "amount": 5 },
+            { "id": 969, "amount": 5 },
+            { "id": 970, "amount": 5 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 3000,
+        "general": false
+    },
+    "fishing-guild": {
+        "items": [
+            { "id": 380, "amount": 200 },
+            { "id": 148, "amount": 200 },
+            { "id": 550, "amount": 0 },
+            { "id": 553, "amount": 0 },
+            { "id": 554, "amount": 0 },
+            { "id": 366, "amount": 0 },
+            { "id": 372, "amount": 0 },
+            { "id": 370, "amount": 0 },
+            { "id": 551, "amount": 0 },
+            { "id": 553, "amount": 0 },
+            { "id": 555, "amount": 0 },
+            { "id": 367, "amount": 0 },
+            { "id": 373, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "fishing-trawler-general": {
+        "items": [
+            { "id": 156, "amount": 5 },
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 237, "amount": 30 },
+            { "id": 23, "amount": 30 },
+            { "id": 1282, "amount": 30 },
+            { "id": 785, "amount": 30 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 3000,
+        "general": true
+    },
+    "flynns-mace": {
+        "items": [
+            { "id": 94, "amount": 5 },
+            { "id": 0, "amount": 4 },
+            { "id": 95, "amount": 4 },
+            { "id": 96, "amount": 3 },
+            { "id": 97, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 1,
+        "restock": 25000,
+        "general": false
+    },
+    "frenitas-cooking": {
+        "items": [
+            { "id": 251, "amount": 5 },
+            { "id": 252, "amount": 2 },
+            { "id": 338, "amount": 2 },
+            { "id": 341, "amount": 2 },
+            { "id": 348, "amount": 5 },
+            { "id": 166, "amount": 4 },
+            { "id": 140, "amount": 1 },
+            { "id": 135, "amount": 8 },
+            { "id": 337, "amount": 2 },
+            { "id": 23, "amount": 8 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 3000,
+        "general": false
+    },
+    "funchs-fine-groceries": {
+        "items": [
+            { "id": 876, "amount": 5 },
+            { "id": 870, "amount": 5 },
+            { "id": 869, "amount": 5 },
+            { "id": 584, "amount": 5 },
+            { "id": 861, "amount": 5 },
+            { "id": 873, "amount": 3 },
+            { "id": 857, "amount": 5 },
+            { "id": 855, "amount": 5 },
+            { "id": 863, "amount": 5 },
+            { "id": 765, "amount": 3 },
+            { "id": 834, "amount": 5 },
+            { "id": 337, "amount": 5 },
+            { "id": 772, "amount": 5 },
+            { "id": 871, "amount": 5 },
+            { "id": 22, "amount": 5 },
+            { "id": 13, "amount": 5 },
+            { "id": 851, "amount": 5 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 30000,
+        "general": false
+    },
+    "fur-stall": {
+        "items": [
+            { "id": 146, "amount": 3 },
+            { "id": 541, "amount": 3 }
+        ],
+        "sellMultiplier": 120,
+        "buyMultiplier": 95,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "gaius-two-handed": {
+        "items": [
+            { "id": 76, "amount": 4 },
+            { "id": 77, "amount": 3 },
+            { "id": 78, "amount": 2 },
+            { "id": 426, "amount": 1 },
+            { "id": 79, "amount": 1 },
+            { "id": 80, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "gems-stall": {
+        "items": [
+            { "id": 164, "amount": 2 },
+            { "id": 163, "amount": 1 },
+            { "id": 162, "amount": 1 },
+            { "id": 161, "amount": 0 }
+        ],
+        "sellMultiplier": 150,
+        "buyMultiplier": 80,
+        "delta": 3,
+        "restock": 300000,
+        "general": false
+    },
+    "gerrants-fishy-business": {
+        "items": [
+            { "id": 376, "amount": 5 },
+            { "id": 377, "amount": 5 },
+            { "id": 378, "amount": 5 },
+            { "id": 379, "amount": 2 },
+            { "id": 373, "amount": 2 },
+            { "id": 380, "amount": 200 },
+            { "id": 148, "amount": 200 },
+            { "id": 349, "amount": 30 },
+            { "id": 354, "amount": 0 },
+            { "id": 361, "amount": 0 },
+            { "id": 352, "amount": 0 },
+            { "id": 358, "amount": 0 },
+            { "id": 363, "amount": 0 },
+            { "id": 356, "amount": 0 },
+            { "id": 366, "amount": 0 },
+            { "id": 372, "amount": 0 },
+            { "id": 370, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 3,
+        "restock": 12000,
+        "general": false
+    },
+    "gnome-restaurant": {
+        "items": [
+            { "id": 901, "amount": 3 },
+            { "id": 902, "amount": 3 },
+            { "id": 904, "amount": 3 },
+            { "id": 905, "amount": 3 },
+            { "id": 906, "amount": 3 },
+            { "id": 907, "amount": 3 },
+            { "id": 908, "amount": 3 },
+            { "id": 909, "amount": 3 },
+            { "id": 910, "amount": 3 },
+            { "id": 911, "amount": 4 },
+            { "id": 912, "amount": 4 },
+            { "id": 913, "amount": 4 },
+            { "id": 914, "amount": 4 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 25,
+        "delta": 1,
+        "restock": 30000,
+        "general": false
+    },
+    "grand-tree-groceries": {
+        "items": [
+            { "id": 881, "amount": 8 },
+            { "id": 873, "amount": 5 },
+            { "id": 23, "amount": 5 },
+            { "id": 898, "amount": 5 },
+            { "id": 241, "amount": 5 },
+            { "id": 348, "amount": 3 },
+            { "id": 18, "amount": 3 },
+            { "id": 320, "amount": 5 },
+            { "id": 319, "amount": 5 },
+            { "id": 863, "amount": 5 },
+            { "id": 857, "amount": 5 },
+            { "id": 855, "amount": 5 },
+            { "id": 861, "amount": 5 },
+            { "id": 765, "amount": 3 },
+            { "id": 834, "amount": 5 },
+            { "id": 337, "amount": 8 },
+            { "id": 772, "amount": 5 },
+            { "id": 871, "amount": 5 },
+            { "id": 22, "amount": 5 },
+            { "id": 13, "amount": 5 },
+            { "id": 899, "amount": 5 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 30000,
+        "general": false
+    },
+    "gruds-herblaw-stall": {
+        "items": [
+            { "id": 464, "amount": 50 },
+            { "id": 468, "amount": 3 },
+            { "id": 270, "amount": 50 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "grums-gold-exchange": {
+        "items": [
+            { "id": 283, "amount": 0 },
+            { "id": 284, "amount": 0 },
+            { "id": 285, "amount": 0 },
+            { "id": 286, "amount": 0 },
+            { "id": 287, "amount": 0 },
+            { "id": 288, "amount": 0 },
+            { "id": 289, "amount": 0 },
+            { "id": 290, "amount": 0 },
+            { "id": 291, "amount": 0 },
+            { "id": 292, "amount": 0 },
+            { "id": 296, "amount": 0 },
+            { "id": 297, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "gulluck-and-sons": {
+        "items": [
+            { "id": 11, "amount": 200 },
+            { "id": 190, "amount": 150 },
+            { "id": 786, "amount": 1 },
+            { "id": 189, "amount": 4 },
+            { "id": 188, "amount": 2 },
+            { "id": 60, "amount": 2 },
+            { "id": 669, "amount": 200 },
+            { "id": 670, "amount": 180 },
+            { "id": 671, "amount": 160 },
+            { "id": 672, "amount": 140 },
+            { "id": 12, "amount": 5 },
+            { "id": 88, "amount": 3 },
+            { "id": 89, "amount": 5 },
+            { "id": 90, "amount": 2 },
+            { "id": 91, "amount": 1 },
+            { "id": 76, "amount": 4 },
+            { "id": 77, "amount": 3 },
+            { "id": 78, "amount": 2 },
+            { "id": 426, "amount": 1 },
+            { "id": 79, "amount": 1 },
+            { "id": 80, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 25,
+        "delta": 1,
+        "restock": 3000,
+        "general": false
+    },
+    "harrys-fishing-shack": {
+        "items": [
+            { "id": 376, "amount": 3 },
+            { "id": 377, "amount": 3 },
+            { "id": 379, "amount": 2 },
+            { "id": 373, "amount": 2 },
+            { "id": 380, "amount": 200 },
+            { "id": 548, "amount": 5 },
+            { "id": 349, "amount": 0 },
+            { "id": 354, "amount": 0 },
+            { "id": 361, "amount": 0 },
+            { "id": 553, "amount": 0 },
+            { "id": 550, "amount": 0 },
+            { "id": 352, "amount": 0 },
+            { "id": 366, "amount": 0 },
+            { "id": 372, "amount": 0 },
+            { "id": 554, "amount": 0 },
+            { "id": 370, "amount": 0 },
+            { "id": 545, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "herquins-gems": {
+        "items": [
+            { "id": 160, "amount": 1 },
+            { "id": 159, "amount": 0 },
+            { "id": 158, "amount": 0 },
+            { "id": 157, "amount": 0 },
+            { "id": 164, "amount": 1 },
+            { "id": 163, "amount": 0 },
+            { "id": 162, "amount": 0 },
+            { "id": 161, "amount": 0 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 3,
+        "restock": 600000,
+        "general": false
+    },
+    "hicktons-archery": {
+        "items": [
+            { "id": 190, "amount": 200 },
+            { "id": 11, "amount": 200 },
+            { "id": 638, "amount": 200 },
+            { "id": 640, "amount": 0 },
+            { "id": 642, "amount": 0 },
+            { "id": 644, "amount": 0 },
+            { "id": 646, "amount": 0 },
+            { "id": 669, "amount": 200 },
+            { "id": 670, "amount": 180 },
+            { "id": 671, "amount": 160 },
+            { "id": 672, "amount": 140 },
+            { "id": 673, "amount": 120 },
+            { "id": 674, "amount": 100 },
+            { "id": 189, "amount": 4 },
+            { "id": 188, "amount": 2 },
+            { "id": 60, "amount": 2 },
+            { "id": 189, "amount": 4 },
+            { "id": 188, "amount": 4 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 80,
+        "delta": 1,
+        "restock": 10000,
+        "general": false
+    },
+    "horviks-armour": {
+        "items": [
+            { "id": 113, "amount": 5 },
+            { "id": 7, "amount": 3 },
+            { "id": 114, "amount": 3 },
+            { "id": 115, "amount": 1 },
+            { "id": 117, "amount": 3 },
+            { "id": 8, "amount": 1 },
+            { "id": 118, "amount": 1 },
+            { "id": 196, "amount": 1 },
+            { "id": 119, "amount": 1 },
+            { "id": 9, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "jatixs-herblaw": {
+        "items": [
+            { "id": 464, "amount": 50 },
+            { "id": 468, "amount": 3 },
+            { "id": 270, "amount": 50 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 10000,
+        "general": false
+    },
+    "karamja-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "karamja-wines-spirits-and-beers": {
+        "items": [
+            { "id": 193, "amount": 3 },
+            { "id": 318, "amount": 3 },
+            { "id": 142, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 25000,
+        "general": false
+    },
+    "king-lathas-weaponry": {
+        "items": [
+            { "id": 11, "amount": 200 },
+            { "id": 190, "amount": 150 },
+            { "id": 189, "amount": 4 },
+            { "id": 188, "amount": 2 },
+            { "id": 60, "amount": 2 },
+            { "id": 669, "amount": 200 },
+            { "id": 670, "amount": 180 },
+            { "id": 671, "amount": 160 },
+            { "id": 672, "amount": 140 },
+            { "id": 12, "amount": 5 },
+            { "id": 88, "amount": 3 },
+            { "id": 89, "amount": 5 },
+            { "id": 90, "amount": 2 },
+            { "id": 91, "amount": 1 },
+            { "id": 76, "amount": 4 },
+            { "id": 77, "amount": 3 },
+            { "id": 78, "amount": 2 },
+            { "id": 426, "amount": 1 },
+            { "id": 79, "amount": 1 },
+            { "id": 80, "amount": 1 }
+        ],
+        "sellMultiplier": 150,
+        "buyMultiplier": 50,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "legends-guild-general": {
+        "items": [
+            { "id": 370, "amount": 2 },
+            { "id": 257, "amount": 5 },
+            { "id": 1263, "amount": 1 },
+            { "id": 474, "amount": 3 },
+            { "id": 640, "amount": 50 }
+        ],
+        "sellMultiplier": 155,
+        "buyMultiplier": 55,
+        "delta": 13,
+        "restock": 20000,
+        "general": true
+    },
+    "legends-guild": {
+        "items": [
+            { "id": 796, "amount": 6 },
+            { "id": 596, "amount": 5 },
+            { "id": 52, "amount": 4 },
+            { "id": 421, "amount": 3 },
+            { "id": 1276, "amount": 1 },
+            { "id": 1288, "amount": 3 }
+        ],
+        "sellMultiplier": 150,
+        "buyMultiplier": 50,
+        "delta": 2,
+        "restock": 60000,
+        "general": false
+    },
+    "louies-legs": {
+        "items": [
+            { "id": 206, "amount": 5 },
+            { "id": 9, "amount": 3 },
+            { "id": 121, "amount": 2 },
+            { "id": 248, "amount": 1 },
+            { "id": 122, "amount": 1 },
+            { "id": 123, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 65,
+        "delta": 1,
+        "restock": 25000,
+        "general": false
+    },
+    "lowes-archery": {
+        "items": [
+            { "id": 11, "amount": 200 },
+            { "id": 190, "amount": 150 },
+            { "id": 189, "amount": 4 },
+            { "id": 188, "amount": 2 },
+            { "id": 60, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 1,
+        "restock": 3000,
+        "general": false
+    },
+    "lumbridge-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "mage-arena-rune": {
+        "items": [
+            { "id": 33, "amount": 100 },
+            { "id": 31, "amount": 100 },
+            { "id": 32, "amount": 100 },
+            { "id": 34, "amount": 100 },
+            { "id": 35, "amount": 100 },
+            { "id": 36, "amount": 100 }
+        ],
+        "sellMultiplier": 190,
+        "buyMultiplier": 60,
+        "delta": 10,
+        "restock": 6000,
+        "general": false
+    },
+    "mage-arena-staves": {
+        "items": [
+            { "id": 1216, "amount": 5 },
+            { "id": 1218, "amount": 5 },
+            { "id": 1217, "amount": 5 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 300000,
+        "general": false
+    },
+    "magic-guild": {
+        "items": [
+            { "id": 31, "amount": 50 },
+            { "id": 32, "amount": 50 },
+            { "id": 33, "amount": 50 },
+            { "id": 34, "amount": 50 },
+            { "id": 35, "amount": 50 },
+            { "id": 36, "amount": 50 },
+            { "id": 825, "amount": 30 },
+            { "id": 614, "amount": 5 },
+            { "id": 101, "amount": 2 },
+            { "id": 102, "amount": 2 },
+            { "id": 103, "amount": 2 },
+            { "id": 197, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 75,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "nulodions-cannon-parts": {
+        "items": [
+            { "id": 1032, "amount": 3 },
+            { "id": 1033, "amount": 3 },
+            { "id": 1034, "amount": 3 },
+            { "id": 1035, "amount": 3 },
+            { "id": 1073, "amount": 7 },
+            { "id": 1057, "amount": 7 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "nurmofs-pickaxe": {
+        "items": [
+            { "id": 156, "amount": 6 },
+            { "id": 1258, "amount": 5 },
+            { "id": 1259, "amount": 4 },
+            { "id": 1260, "amount": 3 },
+            { "id": 1261, "amount": 2 },
+            { "id": 1262, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 25000,
+        "general": false
+    },
+    "ogre-trader-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 13, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 15000,
+        "general": true
+    },
+    "oziachs-body-armour": {
+        "items": [{ "id": 401, "amount": 1 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "peksas-helmet": {
+        "items": [
+            { "id": 104, "amount": 5 },
+            { "id": 5, "amount": 3 },
+            { "id": 105, "amount": 3 },
+            { "id": 106, "amount": 1 },
+            { "id": 107, "amount": 1 },
+            { "id": 108, "amount": 4 },
+            { "id": 6, "amount": 3 },
+            { "id": 109, "amount": 2 },
+            { "id": 110, "amount": 1 },
+            { "id": 111, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 1,
+        "restock": 25000,
+        "general": false
+    },
+    "pizza-base": {
+        "items": [{ "id": 321, "amount": 30 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 5000,
+        "general": false
+    },
+    "ranaels-plateskirt": {
+        "items": [
+            { "id": 214, "amount": 5 },
+            { "id": 215, "amount": 3 },
+            { "id": 225, "amount": 2 },
+            { "id": 434, "amount": 1 },
+            { "id": 226, "amount": 1 },
+            { "id": 227, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 65,
+        "delta": 1,
+        "restock": 25000,
+        "general": false
+    },
+    "rimmington-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "rommiks-crafty-supplies": {
+        "items": [
+            { "id": 167, "amount": 2 },
+            { "id": 293, "amount": 4 },
+            { "id": 295, "amount": 2 },
+            { "id": 294, "amount": 2 },
+            { "id": 39, "amount": 3 },
+            { "id": 43, "amount": 100 },
+            { "id": 386, "amount": 3 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 65,
+        "delta": 2,
+        "restock": 5000,
+        "general": false
+    },
+    "ruby-ring": {
+        "items": [{ "id": 286, "amount": 5 }],
+        "sellMultiplier": 50,
+        "buyMultiplier": 30,
+        "delta": 2,
+        "restock": 3000,
+        "general": false
+    },
+    "scavvos-rune": {
+        "items": [
+            { "id": 406, "amount": 2 },
+            { "id": 402, "amount": 1 },
+            { "id": 98, "amount": 1 },
+            { "id": 400, "amount": 1 },
+            { "id": 75, "amount": 1 },
+            { "id": 397, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 300000,
+        "general": false
+    },
+    "shantay-pass": {
+        "items": [
+            { "id": 50, "amount": 15 },
+            { "id": 342, "amount": 15 },
+            { "id": 21, "amount": 15 },
+            { "id": 1085, "amount": 15 },
+            { "id": 1016, "amount": 15 },
+            { "id": 1019, "amount": 15 },
+            { "id": 1020, "amount": 15 },
+            { "id": 990, "amount": 15 },
+            { "id": 166, "amount": 5 },
+            { "id": 167, "amount": 5 },
+            { "id": 168, "amount": 5 },
+            { "id": 169, "amount": 5 },
+            { "id": 148, "amount": 200 },
+            { "id": 1030, "amount": 20 },
+            { "id": 13, "amount": 20 }
+        ],
+        "sellMultiplier": 120,
+        "buyMultiplier": 70,
+        "delta": 3,
+        "restock": 10000,
+        "general": false
+    },
+    "shilo-village-general": {
+        "items": [
+            { "id": 166, "amount": 2 },
+            { "id": 464, "amount": 20 },
+            { "id": 468, "amount": 3 },
+            { "id": 135, "amount": 3 },
+            { "id": 87, "amount": 3 },
+            { "id": 156, "amount": 2 },
+            { "id": 12, "amount": 5 },
+            { "id": 15, "amount": 12 },
+            { "id": 16, "amount": 10 },
+            { "id": 17, "amount": 10 },
+            { "id": 132, "amount": 2 },
+            { "id": 138, "amount": 10 },
+            { "id": 169, "amount": 10 },
+            { "id": 211, "amount": 10 },
+            { "id": 599, "amount": 10 },
+            { "id": 773, "amount": 10 },
+            { "id": 167, "amount": 10 },
+            { "id": 168, "amount": 10 },
+            { "id": 982, "amount": 50 },
+            { "id": 983, "amount": 50 },
+            { "id": 1263, "amount": 10 },
+            { "id": 1172, "amount": 50 }
+        ],
+        "sellMultiplier": 150,
+        "buyMultiplier": 50,
+        "delta": 2,
+        "restock": 15000,
+        "general": true
+    },
+    "silver-stall": {
+        "items": [
+            { "id": 44, "amount": 2 },
+            { "id": 383, "amount": 1 },
+            { "id": 384, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 120000,
+        "general": false
+    },
+    "spices-stall": {
+        "items": [{ "id": 707, "amount": 1 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 2,
+        "restock": 15000,
+        "general": false
+    },
+    "tai-bwo-wannai-general": {
+        "items": [
+            { "id": 166, "amount": 2 },
+            { "id": 464, "amount": 10 },
+            { "id": 468, "amount": 3 },
+            { "id": 135, "amount": 3 },
+            { "id": 87, "amount": 3 },
+            { "id": 156, "amount": 2 },
+            { "id": 12, "amount": 5 },
+            { "id": 15, "amount": 12 },
+            { "id": 16, "amount": 10 },
+            { "id": 17, "amount": 10 },
+            { "id": 132, "amount": 2 },
+            { "id": 138, "amount": 10 },
+            { "id": 169, "amount": 10 },
+            { "id": 211, "amount": 10 },
+            { "id": 599, "amount": 10 },
+            { "id": 773, "amount": 10 },
+            { "id": 167, "amount": 10 },
+            { "id": 168, "amount": 10 },
+            { "id": 982, "amount": 50 },
+            { "id": 983, "amount": 50 },
+            { "id": 50, "amount": 50 },
+            { "id": 1172, "amount": 50 }
+        ],
+        "sellMultiplier": 150,
+        "buyMultiplier": 50,
+        "delta": 2,
+        "restock": 15000,
+        "general": true
+    },
+    "tea-stall": {
+        "items": [{ "id": 739, "amount": 20 }],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "the-shrimp-and-parrot": {
+        "items": [
+            { "id": 362, "amount": 5 },
+            { "id": 551, "amount": 5 },
+            { "id": 367, "amount": 5 },
+            { "id": 373, "amount": 3 },
+            { "id": 370, "amount": 2 }
+        ],
+        "sellMultiplier": 110,
+        "buyMultiplier": 75,
+        "delta": 2,
+        "restock": 10000,
+        "general": false
+    },
+    "thessalias-fine-clothes": {
+        "items": [
+            { "id": 234, "amount": 3 },
+            { "id": 15, "amount": 12 },
+            { "id": 16, "amount": 10 },
+            { "id": 17, "amount": 10 },
+            { "id": 191, "amount": 1 },
+            { "id": 194, "amount": 5 },
+            { "id": 195, "amount": 3 },
+            { "id": 187, "amount": 2 },
+            { "id": 183, "amount": 4 },
+            { "id": 200, "amount": 5 },
+            { "id": 807, "amount": 3 },
+            { "id": 808, "amount": 3 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 3,
+        "restock": 30000,
+        "general": false
+    },
+    "tree-gnome-village-general": {
+        "items": [
+            { "id": 156, "amount": 5 },
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 11, "amount": 30 },
+            { "id": 132, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 3000,
+        "general": true
+    },
+    "valaines-shop-of-champions": {
+        "items": [
+            { "id": 272, "amount": 2 },
+            { "id": 230, "amount": 1 },
+            { "id": 248, "amount": 1 },
+            { "id": 120, "amount": 1 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 60000,
+        "general": false
+    },
+    "varrock-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "varrock-swords": {
+        "items": [
+            { "id": 66, "amount": 5 },
+            { "id": 1, "amount": 4 },
+            { "id": 67, "amount": 4 },
+            { "id": 424, "amount": 3 },
+            { "id": 68, "amount": 3 },
+            { "id": 69, "amount": 2 },
+            { "id": 70, "amount": 4 },
+            { "id": 71, "amount": 3 },
+            { "id": 72, "amount": 3 },
+            { "id": 425, "amount": 2 },
+            { "id": 73, "amount": 2 },
+            { "id": 74, "amount": 1 },
+            { "id": 62, "amount": 10 },
+            { "id": 28, "amount": 6 },
+            { "id": 63, "amount": 5 },
+            { "id": 423, "amount": 4 },
+            { "id": 64, "amount": 3 },
+            { "id": 65, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "waynes-chains": {
+        "items": [
+            { "id": 113, "amount": 3 },
+            { "id": 7, "amount": 2 },
+            { "id": 114, "amount": 1 },
+            { "id": 431, "amount": 1 },
+            { "id": 115, "amount": 1 },
+            { "id": 116, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 65,
+        "delta": 1,
+        "restock": 25000,
+        "general": false
+    },
+    "west-ardougne-general": {
+        "items": [
+            { "id": 237, "amount": 7 },
+            { "id": 156, "amount": 10 },
+            { "id": 357, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 10 },
+            { "id": 259, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 138, "amount": 10 },
+            { "id": 17, "amount": 10 },
+            { "id": 135, "amount": 3 },
+            { "id": 132, "amount": 2 },
+            { "id": 188, "amount": 2 },
+            { "id": 11, "amount": 200 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 3000,
+        "general": true
+    },
+    "wydins-food": {
+        "items": [
+            { "id": 23, "amount": 3 },
+            { "id": 133, "amount": 1 },
+            { "id": 18, "amount": 3 },
+            { "id": 249, "amount": 3 },
+            { "id": 236, "amount": 1 },
+            { "id": 138, "amount": 0 },
+            { "id": 337, "amount": 1 },
+            { "id": 319, "amount": 3 },
+            { "id": 320, "amount": 3 },
+            { "id": 348, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 70,
+        "delta": 1,
+        "restock": 12000,
+        "general": false
+    },
+    "zaffs-superior-staves": {
+        "items": [
+            { "id": 614, "amount": 5 },
+            { "id": 100, "amount": 5 },
+            { "id": 198, "amount": 5 },
+            { "id": 101, "amount": 2 },
+            { "id": 102, "amount": 2 },
+            { "id": 103, "amount": 2 },
+            { "id": 197, "amount": 2 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    },
+    "zanaris-general": {
+        "items": [
+            { "id": 135, "amount": 3 },
+            { "id": 140, "amount": 2 },
+            { "id": 144, "amount": 2 },
+            { "id": 21, "amount": 2 },
+            { "id": 166, "amount": 2 },
+            { "id": 167, "amount": 2 },
+            { "id": 168, "amount": 5 },
+            { "id": 1263, "amount": 10 }
+        ],
+        "sellMultiplier": 130,
+        "buyMultiplier": 40,
+        "delta": 3,
+        "restock": 12000,
+        "general": true
+    },
+    "zekes-superior-scimitars": {
+        "items": [
+            { "id": 82, "amount": 5 },
+            { "id": 83, "amount": 3 },
+            { "id": 84, "amount": 2 },
+            { "id": 85, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 55,
+        "delta": 2,
+        "restock": 25000,
+        "general": false
+    },
+    "zeneshas-plate-mail": {
+        "items": [
+            { "id": 308, "amount": 3 },
+            { "id": 312, "amount": 1 },
+            { "id": 309, "amount": 1 },
+            { "id": 313, "amount": 1 },
+            { "id": 310, "amount": 1 }
+        ],
+        "sellMultiplier": 100,
+        "buyMultiplier": 60,
+        "delta": 2,
+        "restock": 30000,
+        "general": false
+    }
+}

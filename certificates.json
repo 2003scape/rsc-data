@@ -1,0 +1,133 @@
+{
+    "certificates": {
+        "151": 517,
+        "152": 521,
+        "153": 519,
+        "155": 518,
+        "170": 528,
+        "171": 529,
+        "172": 532,
+        "173": 530,
+        "220": 1271,
+        "369": 536,
+        "370": 535,
+        "372": 534,
+        "373": 533,
+        "383": 520,
+        "384": 531,
+        "483": 1272,
+        "486": 1273,
+        "492": 1275,
+        "495": 1274,
+        "545": 631,
+        "546": 630,
+        "554": 629,
+        "555": 628,
+        "633": 713,
+        "634": 712,
+        "635": 711,
+        "814": 1270
+    },
+    "certers": {
+        "227": {
+            "type": "fish",
+            "certificates": [
+                { "id": 535 },
+                { "id": 536 },
+                { "id": 533 },
+                { "id": 534 }
+            ],
+            "items": [
+                { "id": 373 },
+                { "id": 372 },
+                { "id": 370, "alias": "swordfish" },
+                { "id": 369 }
+            ]
+        },
+        "267": { "reference": 227 },
+        "369": { "reference": 227 },
+        "229": {
+            "type": "fish",
+            "certificates": [
+                { "id": 630, "alias": "shark" },
+                { "id": 631 },
+                { "id": 628, "alias": "bass" },
+                { "id": 629 }
+            ],
+            "items": [
+                { "id": 555, "alias": "bass" },
+                { "id": 554 },
+                { "id": 546, "alias": "shark" },
+                { "id": 545 }
+            ]
+        },
+        "370": { "reference": 229 },
+        "225": {
+            "type": "ore",
+            "certificates": [
+                { "id": 517, "alias": "iron" },
+                { "id": 518, "alias": "Coal" },
+                { "id": 519, "alias": "mithril" },
+                { "id": 521, "alias": "Gold" },
+                { "id": 520, "alias": "silver" }
+            ],
+            "items": [
+                { "id": 151, "alias": "iron" },
+                { "id": 155, "alias": "Coal" },
+                { "id": 153, "alias": "mithril" },
+                { "id": 152, "alias": "Gold" },
+                { "id": 520, "alias": "silver" }
+            ]
+        },
+        "466": { "reference": 225 },
+        "226": {
+            "type": "bar",
+            "certificates": [
+                { "id": 528 },
+                { "id": 529, "alias": "Steel bar" },
+                { "id": 530 },
+                { "id": 532, "alias": "Gold bar" },
+                { "id": 531 }
+            ],
+            "items": [
+                { "id": 170 },
+                { "id": 171 },
+                { "id": 173 },
+                { "id": 172, "alias": "Gold bar" },
+                { "id": 384 }
+            ]
+        },
+        "467": { "reference": 226 },
+        "341": {
+            "type": "log",
+            "certificates": [
+                { "id": 711, "alias": "yew logs" },
+                { "id": 712, "alias": "maple logs" },
+                { "id": 713, "alias": "willow logs" }
+            ],
+            "items": [
+                { "id": 635, "alias": "yew logs" },
+                { "id": 634, "alias": "maple logs" },
+                { "id": 633, "alias": "willow logs" }
+            ]
+        },
+        "778": {
+            "certificates": [
+                { "id": 1272, "alias": "Restore Prayer Potion Certificates" },
+                { "id": 1273, "alias": "Super Attack Potion Certificates" },
+                { "id": 1274, "alias": "Super Defense Potion Certificates" },
+                { "id": 1275, "alias": "Super Strength Potion Certificates" },
+                { "id": 1270, "alias": "Dragon Bones Certificates" },
+                { "id": 1271, "alias": "Limpwurt Root Certificates" }
+            ],
+            "items": [
+                { "id": 483, "alias": "Prayer Restore Potion" },
+                { "id": 486, "alias": "Super Attack Potion" },
+                { "id": 495, "alias": "Super Defense Potion" },
+                { "id": 492, "alias": "Super Strength Potion" },
+                { "id": 814, "alias": "Dragon Bones" },
+                { "id": 220, "alias": "Limpwurt Root" }
+            ]
+        }
+    }
+}

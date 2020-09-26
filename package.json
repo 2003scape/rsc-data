@@ -1,0 +1,27 @@
+{
+  "name": "@2003scape/rsc-data",
+  "version": "1.0.0",
+  "description": "collection of data for runescape classic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003scape/rsc-data.git"
+  },
+  "keywords": [
+    "runescape",
+    "classic",
+    "rsc",
+    "game",
+    "config",
+    "cache",
+    "items",
+    "npcs",
+    "locations",
+    "skills"
+  ],
+  "author": "2003Scape Team",
+  "license": "CC-BY-NC-SA-3.0 AND CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-data/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-data#readme"
+}

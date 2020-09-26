@@ -1,0 +1,63 @@
+{
+    "axes": {
+        "87": 0,
+        "12": 1.5,
+        "88": 2,
+        "428": 2.25,
+        "203": 2.50,
+        "204": 3,
+        "405": 3.5
+    },
+    "trees": {
+        "0": {
+            "level": 1,
+            "experience": 100,
+            "roll": [64, 200],
+            "log": 14,
+            "respawn": 40000,
+            "stump": 100
+        },
+        "1": { "reference": 0 },
+        "70": { "reference": 0 },
+        "306": {
+            "level": 15,
+            "experience": 150,
+            "roll": [32, 100],
+            "log": 632,
+            "respawn": 17000,
+            "stump": 10
+        },
+        "307": {
+            "level": 30,
+            "experience": 250,
+            "roll": [16, 50],
+            "log": 633,
+            "respawn": 35000,
+            "stump": 12
+        },
+        "308": {
+            "level": 45,
+            "experience": 400,
+            "roll": [8, 25],
+            "log": 634,
+            "respawn": 70000,
+            "stump": 15
+        },
+        "309": {
+            "level": 60,
+            "experience": 700,
+            "roll": [4, 12],
+            "log": 635,
+            "respawn": 120000,
+            "stump": 17
+        },
+        "310": {
+            "level": 75,
+            "experience": 1000,
+            "roll": [2, 6],
+            "log": 636,
+            "respawn": 240000,
+            "stump": 20
+        }
+    }
+}

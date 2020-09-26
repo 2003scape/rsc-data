@@ -1,0 +1,26 @@
+{
+    "party-hat": [
+        { "id": 576, "weight": 32 },
+        { "id": 577, "weight": 28 },
+        { "id": 581, "weight": 23 },
+        { "id": 579, "weight": 18 },
+        { "id": 578, "weight": 15 },
+        { "id": 580, "weight": 10 }
+    ],
+    "miscellaneous": [
+        { "id": 336, "weight": 16 },
+        { "id": 200, "weight": 10 },
+        { "id": 44, "weight": 10 },
+        { "id": 179, "weight": 16 },
+        { "id": 337, "weight": 24 },
+        { "id": 383, "weight": 18 },
+        { "id": 423, "weight": 6 },
+        { "id": 283, "weight": 10 },
+        { "id": 517, "weight": 14 },
+        { "id": 42, "weight": 4 }
+    ],
+    "cracker": [
+        { "reference": "party-hat", "weight": 0 },
+        { "reference": "miscellaneous", "weight": 0 }
+    ]
+}
