@@ -240,7 +240,7 @@ https://classic.runescape.wiki/w/Crafting
         // same as silver-jewellery
     ],
     "stringing": { // string on unstrung amulet, unstrung -> strung
-        "1027: 1028, // ...
+        "1027": 1028, // ...
     },
     "glassblowing": [ // using glassblowing pipe on molten glass
         {
@@ -293,7 +293,7 @@ https://classic.runescape.wiki/w/Fletching
             // shortbow, longbow
             {
                 "level": 5,
-                "experience: 20, // experience gained for cutting and stringing
+                "experience": 20, // experience gained for cutting and stringing
                 "unstrung": 227, // item index after using knife on log
                 "strung": 189 // item index after using string on unstrung
             },

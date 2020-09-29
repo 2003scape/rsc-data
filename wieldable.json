@@ -4,7 +4,7 @@
         "animation": 118,
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 6,
         "magic": 0,
         "prayer": 0
     },
@@ -94,7 +94,7 @@
         "animation": 110,
         "armour": 0,
         "weaponAim": 5,
-        "weaponPower": 5,
+        "weaponPower": 7,
         "magic": 0,
         "prayer": 0
     },
@@ -426,7 +426,7 @@
         "animation": 109,
         "armour": 0,
         "weaponAim": 4,
-        "weaponPower": 4,
+        "weaponPower": 5,
         "magic": 0,
         "prayer": 0
     },
@@ -435,7 +435,7 @@
         "animation": 111,
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 11,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 5 }
@@ -445,7 +445,7 @@
         "animation": 110,
         "armour": 0,
         "weaponAim": 9,
-        "weaponPower": 9,
+        "weaponPower": 13,
         "magic": 0,
         "prayer": 0
     },
@@ -454,7 +454,7 @@
         "animation": 111,
         "armour": 0,
         "weaponAim": 15,
-        "weaponPower": 15,
+        "weaponPower": 20,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 5 }
@@ -464,7 +464,7 @@
         "animation": 112,
         "armour": 0,
         "weaponAim": 21,
-        "weaponPower": 21,
+        "weaponPower": 29,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 20 }
@@ -474,7 +474,7 @@
         "animation": 113,
         "armour": 0,
         "weaponAim": 30,
-        "weaponPower": 30,
+        "weaponPower": 41,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 30 }
@@ -484,7 +484,7 @@
         "animation": 114,
         "armour": 0,
         "weaponAim": 47,
-        "weaponPower": 47,
+        "weaponPower": 64,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 40 }
@@ -494,7 +494,7 @@
         "animation": 116,
         "armour": 0,
         "weaponAim": 5,
-        "weaponPower": 5,
+        "weaponPower": 4,
         "magic": 0,
         "prayer": 0
     },
@@ -503,7 +503,7 @@
         "animation": 118,
         "armour": 0,
         "weaponAim": 12,
-        "weaponPower": 12,
+        "weaponPower": 8,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 5 }
@@ -513,7 +513,7 @@
         "animation": 119,
         "armour": 0,
         "weaponAim": 17,
-        "weaponPower": 17,
+        "weaponPower": 12,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 20 }
@@ -523,7 +523,7 @@
         "animation": 120,
         "armour": 0,
         "weaponAim": 24,
-        "weaponPower": 24,
+        "weaponPower": 18,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 30 }
@@ -533,7 +533,7 @@
         "animation": 121,
         "armour": 0,
         "weaponAim": 38,
-        "weaponPower": 38,
+        "weaponPower": 28,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 40 }
@@ -998,7 +998,7 @@
         "animation": 112,
         "armour": 0,
         "weaponAim": 12,
-        "weaponPower": 12,
+        "weaponPower": 16,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 20 }
@@ -1008,7 +1008,7 @@
         "animation": 113,
         "armour": 0,
         "weaponAim": 17,
-        "weaponPower": 17,
+        "weaponPower": 23,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 30 }
@@ -1018,7 +1018,7 @@
         "animation": 109,
         "armour": 0,
         "weaponAim": 7,
-        "weaponPower": 7,
+        "weaponPower": 9,
         "magic": 0,
         "prayer": 0
     },
@@ -1130,7 +1130,7 @@
         "animation": 80,
         "armour": 0,
         "weaponAim": 4,
-        "weaponPower": 4,
+        "weaponPower": 0,
         "magic": 0,
         "prayer": 0
     },
@@ -1248,7 +1248,7 @@
         "animation": 117,
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 6,
         "magic": 0,
         "prayer": 0
     },
@@ -1333,7 +1333,7 @@
         "animation": 81,
         "armour": 0,
         "weaponAim": 0,
-        "weaponPower": 0,
+        "weaponPower": 10,
         "magic": 0,
         "prayer": 0
     },
@@ -1468,7 +1468,7 @@
         "animation": 114,
         "armour": 0,
         "weaponAim": 26,
-        "weaponPower": 26,
+        "weaponPower": 36,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 40 }
@@ -1507,7 +1507,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 10,
-        "weaponPower": 10,
+        "weaponPower": 8,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1517,7 +1517,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 16,
-        "weaponPower": 16,
+        "weaponPower": 13,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1527,7 +1527,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 20,
-        "weaponPower": 20,
+        "weaponPower": 16,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1537,7 +1537,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 28,
-        "weaponPower": 28,
+        "weaponPower": 22,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1547,7 +1547,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 18,
-        "weaponPower": 18,
+        "weaponPower": 14,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1557,7 +1557,7 @@
         "animation": 115,
         "armour": 0,
         "weaponAim": 10,
-        "weaponPower": 10,
+        "weaponPower": 14,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1567,7 +1567,7 @@
         "animation": 115,
         "armour": 0,
         "weaponAim": 19,
-        "weaponPower": 19,
+        "weaponPower": 26,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1577,7 +1577,7 @@
         "animation": 122,
         "armour": 0,
         "weaponAim": 15,
-        "weaponPower": 15,
+        "weaponPower": 11,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1682,7 +1682,7 @@
         "animation": 81,
         "armour": 3,
         "weaponAim": 10,
-        "weaponPower": 10,
+        "weaponPower": 6,
         "magic": 3,
         "prayer": 3
     },
@@ -1767,7 +1767,7 @@
         "animation": 54,
         "armour": 0,
         "weaponAim": 10,
-        "weaponPower": 10,
+        "weaponPower": 8,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 10 }
@@ -1841,7 +1841,7 @@
         "animation": 162,
         "armour": 0,
         "weaponAim": 69,
-        "weaponPower": 69,
+        "weaponPower": 75,
         "magic": 0,
         "prayer": 0,
         "requirements": { "attack": 60 }
@@ -1851,7 +1851,7 @@
         "animation": 81,
         "armour": 3,
         "weaponAim": 10,
-        "weaponPower": 10,
+        "weaponPower": 6,
         "magic": 3,
         "prayer": 3
     },
@@ -1915,7 +1915,7 @@
         "animation": 123,
         "armour": 0,
         "weaponAim": 35,
-        "weaponPower": 35,
+        "weaponPower": 32,
         "magic": 20,
         "prayer": 0,
         "requirements": { "attack": 30, "magic": 30 }
@@ -1925,7 +1925,7 @@
         "animation": 123,
         "armour": 0,
         "weaponAim": 35,
-        "weaponPower": 35,
+        "weaponPower": 32,
         "magic": 20,
         "prayer": 0,
         "requirements": { "attack": 30, "magic": 30 }
@@ -1935,7 +1935,7 @@
         "animation": 123,
         "armour": 0,
         "weaponAim": 35,
-        "weaponPower": 35,
+        "weaponPower": 32,
         "magic": 20,
         "prayer": 0,
         "requirements": { "attack": 30, "magic": 30 }
@@ -1945,7 +1945,7 @@
         "animation": 123,
         "armour": 0,
         "weaponAim": 35,
-        "weaponPower": 35,
+        "weaponPower": 32,
         "magic": 20,
         "prayer": 0,
         "requirements": { "attack": 30, "magic": 30 }
@@ -2176,7 +2176,7 @@
         "animation": 123,
         "armour": 0,
         "weaponAim": 7,
-        "weaponPower": 7,
+        "weaponPower": 3,
         "magic": 0,
         "prayer": 0
     },
@@ -2221,7 +2221,7 @@
         "animation": 110,
         "armour": 0,
         "weaponAim": 9,
-        "weaponPower": 9,
+        "weaponPower": 13,
         "magic": 0,
         "prayer": 0
     },
@@ -2312,7 +2312,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 5,
-        "weaponPower": 5,
+        "weaponPower": 3,
         "magic": 0,
         "prayer": 0
     },
@@ -2780,7 +2780,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 5,
         "magic": 0,
         "prayer": 0
     },
@@ -2789,7 +2789,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 12,
-        "weaponPower": 12,
+        "weaponPower": 6,
         "magic": 0,
         "prayer": 0,
         "requirements": { "ranged": 5 }
@@ -2799,7 +2799,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 17,
-        "weaponPower": 17,
+        "weaponPower": 9,
         "magic": 0,
         "prayer": 0,
         "requirements": { "ranged": 15 }
@@ -2809,7 +2809,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 25,
-        "weaponPower": 25,
+        "weaponPower": 15,
         "magic": 0,
         "prayer": 0,
         "requirements": { "ranged": 25 }
@@ -2819,7 +2819,7 @@
         "animation": 220,
         "armour": 0,
         "weaponAim": 38,
-        "weaponPower": 38,
+        "weaponPower": 21,
         "magic": 0,
         "prayer": 0,
         "requirements": { "ranged": 35 }
@@ -2946,7 +2946,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 6,
-        "weaponPower": 6,
+        "weaponPower": 4,
         "magic": 0,
         "prayer": 0
     },
@@ -2955,7 +2955,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 5,
         "magic": 0,
         "prayer": 0
     },
@@ -2964,7 +2964,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 13,
-        "weaponPower": 13,
+        "weaponPower": 7,
         "magic": 0,
         "prayer": 0
     },
@@ -2982,7 +2982,7 @@
         "animation": 181,
         "armour": 0,
         "weaponAim": 24,
-        "weaponPower": 14,
+        "weaponPower": 15,
         "magic": 0,
         "prayer": 0
     },
