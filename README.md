@@ -3,6 +3,10 @@ collection of data for runescape classic. probabilities for drops, entity
 spawn information, skill data, etc. useful for game server-sided applications or
 analysis/simulations.
 
+## install
+
+    $ npm install @2003scape/rsc-data
+
 ## certificates.json
 https://classic.runescape.wiki/w/Certificate
 
@@ -58,6 +62,8 @@ https://github.com/2003scape/rsc-landscape
 [
     {
         "id": 0, // npc index
+        "x": 185,
+        "y": 661,
         "minX": 175,
         "maxX": 195,
         "minY": 651,
@@ -513,9 +519,12 @@ in *config/items.json*.
         "animation": 118, // the client-sided animation index
         "armour": 0,
         "weaponAim": 8,
-        "weaponPower": 8,
+        "weaponPower": 6,
         "magic": 0,
-        "prayer": 0
+        "prayer": 0,
+        "requirements": { // optional
+            attack: 30 // skill names -> base level required
+        }
     }, // ...
 }
 ```
