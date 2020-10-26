@@ -25,6 +25,7 @@
         "102": {
             "level": 15,
             "experience": 140,
+            "roll": [110, 350],
             "ore": 151,
             "respawn": { "min": 4000, "max": 7000 },
             "depleted": 14
@@ -88,6 +89,7 @@
         "195": {
             "level": 20,
             "experience": 160,
+            "roll": [25, 200],
             "ore": 383,
             "respawn": { "min": 50000, "max": 70000 },
             "depleted": 17
@@ -96,6 +98,7 @@
         "210": {
             "level": 85,
             "experience": 500,
+            "roll": [1, 18],
             "ore": 409,
             "respawn": { "min": 720000, "max": 900000 },
             "depleted": 79
