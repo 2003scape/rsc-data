@@ -1253,7 +1253,7 @@
         "prayer": 0
     },
     "308": {
-        "female": false,
+        "female": true,
         "animation": 55,
         "armour": 14,
         "weaponAim": 0,
@@ -1262,7 +1262,7 @@
         "prayer": 0
     },
     "309": {
-        "female": false,
+        "female": true,
         "animation": 57,
         "armour": 31,
         "weaponAim": 0,
@@ -1272,7 +1272,7 @@
         "requirements": { "defense": 5 }
     },
     "310": {
-        "female": false,
+        "female": true,
         "animation": 58,
         "armour": 44,
         "weaponAim": 0,
@@ -1282,7 +1282,7 @@
         "requirements": { "defense": 20 }
     },
     "311": {
-        "female": false,
+        "female": true,
         "animation": 59,
         "armour": 63,
         "weaponAim": 0,
@@ -1292,7 +1292,7 @@
         "requirements": { "defense": 30 }
     },
     "312": {
-        "female": false,
+        "female": true,
         "animation": 56,
         "armour": 20,
         "weaponAim": 0,
@@ -1301,7 +1301,7 @@
         "prayer": 0
     },
     "313": {
-        "female": false,
+        "female": true,
         "animation": 61,
         "armour": 40,
         "weaponAim": 0,
@@ -1484,7 +1484,7 @@
         "requirements": { "defense": 40 }
     },
     "407": {
-        "female": false,
+        "female": true,
         "animation": 60,
         "armour": 80,
         "weaponAim": 0,
