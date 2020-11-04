@@ -66,7 +66,14 @@
         "spawnX": 72,
         "spawnY": 696
     },
-    "port-sarim": { "minX": 245, "maxX": 608, "minY": 355, "maxY": 693 },
+    "port-sarim": {
+        "minX": 245,
+        "maxX": 608,
+        "minY": 355,
+        "maxY": 693,
+        "spawnX": 269,
+        "spawnY": 648
+    },
     "taverly": { "minX": 338, "maxX": 430, "minY": 384, "maxY": 576 },
     "entrana": { "minX": 395, "maxX": 525, "minY": 441, "maxY": 573 },
     "catherby": { "minX": 477, "maxX": 432, "minY": 592, "maxY": 485 },
@@ -84,8 +91,8 @@
         "maxX": 679,
         "minY": 435,
         "maxY": 710,
-        "spawnX": 360,
-        "spawnY": 696
+        "spawnX": 324,
+        "spawnY": 713
     },
     "shilo-village": { "minX": 384, "minY": 431, "maxX": 815, "maxY": 860 },
     "seers-party-hall": [
