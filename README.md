@@ -378,6 +378,7 @@ https://classic.runescape.wiki/w/Mining
         "100": { // game object index
             "level": 1,
             "experience": 70,
+            "roll": [48, 256],
             // item index, or array of weighted item entries (for gem rocks)
             "ore": 150,
             "respawn": 5400, // milliseconds until depleted turns into original
