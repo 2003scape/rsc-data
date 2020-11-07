@@ -41,6 +41,7 @@ dumped and converted .jag archive files from the official client.
 see https://github.com/2003scape/rsc-config#api
 
 ## edible.json
+```javascript
 {
     "257": { // item id to eat
         "hits": 5, // amount of hits healed
@@ -51,6 +52,7 @@ see https://github.com/2003scape/rsc-config#api
     // entries can also just be integers if they have no special behaviour
     "373": 12
 }
+```
 
 ## landscape/
 .jag archive files used on the server for collision detection. see
