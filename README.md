@@ -40,6 +40,18 @@ https://classic.runescape.wiki/w/Certificate
 dumped and converted .jag archive files from the official client.
 see https://github.com/2003scape/rsc-config#api
 
+## edible.json
+{
+    "257": { // item id to eat
+        "hits": 5, // amount of hits healed
+        "result": 263, // optional resulting item ID
+        // optional message(s) if different than the default
+        "message": "You eat half of an apple pie"
+    },
+    // entries can also just be integers if they have no special behaviour
+    "373": 12
+}
+
 ## landscape/
 .jag archive files used on the server for collision detection. see
 https://github.com/2003scape/rsc-landscape
