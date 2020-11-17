@@ -23,6 +23,7 @@
         "spawnX": 312,
         "spawnY": 552
     },
+    "rimmington": { "spawnX": 324, "spawnY": 661 },
     "camelot": { "spawnX": 465, "spawnY": 456 },
     "ardougne": {
         "minX": 500,
