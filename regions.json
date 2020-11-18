@@ -96,8 +96,5 @@
         "spawnY": 713
     },
     "shilo-village": { "minX": 384, "minY": 431, "maxX": 815, "maxY": 860 },
-    "seers-party-hall": [
-        { "minX": 490, "maxX": 500, "minY": 1408, "maxY": 1415 },
-        { "minX": 490, "minY": 464, "maxX": 500, "maxY": 471 }
-    ]
+    "seers-party-hall": { "minX": 490, "minY": 464, "maxX": 500, "maxY": 471 }
 }

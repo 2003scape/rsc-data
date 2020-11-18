@@ -1,10 +1,30 @@
 {
     "cutting": {
-        "157": { "level": 43, "experience": 430, "id": 161 },
-        "158": { "level": 34, "experience": 340, "id": 162 },
-        "159": { "level": 27, "experience": 270, "id": 163 },
-        "160": { "level": 20, "experience": 200, "id": 164 },
-        "542": { "level": 55, "experience": 550, "id": 523 },
+        "157": {
+            "level": 43,
+            "experience": 430,
+            "id": 161,
+            "alias": "diamonds"
+        },
+        "158": { "level": 34, "experience": 340, "id": 162, "alias": "rubies" },
+        "159": {
+            "level": 27,
+            "experience": 270,
+            "id": 163,
+            "alias": "emeralds"
+        },
+        "160": {
+            "level": 20,
+            "experience": 200,
+            "id": 164,
+            "alias": "sapphires"
+        },
+        "542": {
+            "level": 55,
+            "experience": 550,
+            "id": 523,
+            "alias": "dragonstones"
+        },
         "889": { "level": 16, "experience": 100, "id": 892 },
         "890": { "level": 13, "experience": 80, "id": 893 },
         "891": { "level": 10, "experience": 60, "id": 894 }
@@ -12,25 +32,28 @@
     "leather": [
         { "level": 14, "experience": 100, "id": 15, "alias": "Armour" },
         { "level": 1, "experience": 55, "id": 16, "alias": "Gloves" },
-        { "level": 7, "experience": 65, "id": 148, "alias": "Boots" }
+        { "level": 7, "experience": 65, "id": 17, "alias": "Boots" }
     ],
     "pottery": [
         {
             "level": 4,
             "unfired": { "id": 278, "experience": 60 },
             "fired": { "id": 251, "experience": 40 },
+            "roll": [164, 1024],
             "alias": "pie dishes"
         },
         {
             "level": 1,
             "unfired": { "id": 279, "experience": 25 },
             "fired": { "id": 135, "experience": 25 },
+            "roll": [192, 1096],
             "alias": "a pot"
         },
         {
             "level": 7,
             "unfired": { "id": 340, "experience": 40 },
             "fired": { "id": 341, "experience": 60 },
+            "roll": [144, 924],
             "alias": "a bowl"
         }
     ],
