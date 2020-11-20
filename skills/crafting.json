@@ -60,12 +60,17 @@
     "silver-jewellery": {
         "moulds": [386, 1026],
         "items": [
-            { "level": 16, "experience": 200, "id": 44 },
+            {
+                "level": 16,
+                "experience": 200,
+                "id": 44,
+                "alias": "Holy Symbol of Saradomin"
+            },
             { "level": 16, "experience": 200, "id": 1027 }
         ]
     },
     "gold-jewellery": {
-        "moulds": [293, 294, 295],
+        "moulds": [293, 295, 294],
         "gems": [164, 163, 162, 161, 523],
         "items": [
             [
