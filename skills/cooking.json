@@ -48,6 +48,7 @@
         "324": {
             "level": 35,
             "experience": 440,
+            "cooked": 325,
             "burnt": 322,
             "roll": [48, 352],
             "range": true
@@ -410,5 +411,11 @@
             "knife": false,
             "message": "You add the pineapple to the pizza"
         }
+    ],
+    "doughs": [
+        { "id": 137, "alias": "Bread dough" },
+        { "id": 250, "alias": "Pastry dough" },
+        { "id": 321, "alias": "Pizza dough" },
+        { "id": 1104, "alias": "Pitta dough" }
     ]
 }
