@@ -66,6 +66,7 @@
         "112": {
             "level": 40,
             "experience": 260,
+            "roll": [7, 75],
             "ore": 152,
             "respawn": { "min": 50000, "max": 70000 },
             "depleted": 24
