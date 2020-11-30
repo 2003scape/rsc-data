@@ -96,5 +96,9 @@
         "spawnY": 713
     },
     "shilo-village": { "minX": 384, "minY": 431, "maxX": 815, "maxY": 860 },
-    "seers-party-hall": { "minX": 490, "minY": 464, "maxX": 500, "maxY": 471 }
+    "seers-party-hall": { "minX": 490, "minY": 464, "maxX": 500, "maxY": 471 },
+    "lumbridge-lady-broken": { "spawnX": 259, "spawnY": 3472 },
+    "lumbridge-lady-fixed": { "spawnX": 259, "spawnY": 3493 },
+    "lumbridge-lady-broken-ned": { "spawnX": 281, "spawnY": 3472 },
+    "lumbridge-lady-fixed-ned": { "spawnX": 281, "spawnY": 3493}
 }

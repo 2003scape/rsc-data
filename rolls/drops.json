@@ -241,7 +241,7 @@
         { "id": 142, "weight": 3 },
         { "reference": "gem", "weight": 3 }
     ],
-    "25": [{ "id": 20, "weight": 0 }],
+    "25": [{ "id": 20, "weight": 0 }, { "id": 49, "weight": 0 }],
     "29": [{ "id": 20, "weight": 0 }],
     "40": [
         { "id": 20, "weight": 0 },
