@@ -3,30 +3,30 @@
         "169": {
             "level": 1,
             "experience": 25,
-            "items": [{ "id": 150 }, { "id": 202 }]
+            "ores": [{ "id": 150 }, { "id": 202 }]
         },
-        "170": { "level": 15, "items": [{ "id": 151 }] },
+        "170": { "level": 15, "experience": 50, "ores": [{ "id": 151 }] },
         "171": {
             "level": 30,
             "experience": 70,
-            "items": [{ "id": 151 }, { "id": 155, "amount": 2 }]
+            "ores": [{ "id": 151 }, { "id": 155, "amount": 2 }]
         },
-        "172": { "level": 40, "items": [{ "id": 152 }] },
+        "172": { "level": 40, "experience": 90, "ores": [{ "id": 152 }] },
         "173": {
             "level": 50,
             "experience": 120,
-            "items": [{ "id": 153 }, { "id": 155, "amount": 4 }]
+            "ores": [{ "id": 153 }, { "id": 155, "amount": 4 }]
         },
         "174": {
             "level": 70,
             "experience": 150,
-            "items": [{ "id": 154 }, { "id": 155, "amount": 6 }]
+            "ores": [{ "id": 154 }, { "id": 155, "amount": 6 }]
         },
-        "384": { "level": 20, "items": [{ "id": 383 }] },
+        "384": { "level": 20, "experience": 55, "ores": [{ "id": 383 }] },
         "408": {
             "level": 85,
             "experience": 200,
-            "items": [{ "id": 409 }, { "id": 155, "amount": 8 }]
+            "ores": [{ "id": 409 }, { "id": 155, "amount": 8 }]
         }
     },
     "smithing": {
