@@ -422,7 +422,7 @@ https://classic.runescape.wiki/w/Smithing
         "169": { // smelted bar item index
             "level": 1,
             "experience": 25,
-            "items": [{ "id": 150 }, { "id": 202 }] // ore item indexes
+            "ores": [{ "id": 150 }, { "id": 202 }]
         }, // ...
     },
     // there's always the same menu tree for every bar
@@ -431,22 +431,24 @@ https://classic.runescape.wiki/w/Smithing
         "bars": [
             [1, 1, [1, 2, 2, 2, 3], [1, 3], 1], // ...
         ],
-        "169": { // smelted bar item index
-            // base experience - multiplied by amount of bars required
-            "experience": 50,
-            "items": [ // follows the same tree as smithing.bars above
-                {
-                    "level": 1,
-                    "id": 62,
-                    // only specified to override or if this is an additional
-                    // menu (which bronze and steel bars have)
-                    "bars": 1,
-                    // only specified to override the bar experience rate.
-                    // give constant experience for this item only
-                    "experience": 100
-                }, // ...
-            ]
-        }, // ...
+        "items": [
+            "169": { // smelted bar item index
+                // base experience - multiplied by amount of bars required
+                "experience": 50,
+                "items": [ // follows the same tree as smithing.bars above
+                    {
+                        "level": 1,
+                        "id": 62,
+                        // only specified to override or if this is an
+                        // additional menu (which bronze and steel bars have)
+                        "bars": 1,
+                        // only specified to override the bar experience rate.
+                        // give constant experience for this item only
+                        "experience": 100
+                    }, // ...
+                ]
+            }, // ...
+        ]
     }
 }
 ```
