@@ -100,5 +100,13 @@
     "lumbridge-lady-broken": { "spawnX": 259, "spawnY": 3472 },
     "lumbridge-lady-fixed": { "spawnX": 259, "spawnY": 3493 },
     "lumbridge-lady-broken-ned": { "spawnX": 281, "spawnY": 3472 },
-    "lumbridge-lady-fixed-ned": { "spawnX": 281, "spawnY": 3493}
+    "lumbridge-lady-fixed-ned": { "spawnX": 281, "spawnY": 3493},
+    "wilderness": {
+        "minX": 48,
+        "maxX": 336,
+        "maxY": 426,
+        "minY": 96,
+        "spawnX": 198,
+        "spawnY": 284
+    }
 }
