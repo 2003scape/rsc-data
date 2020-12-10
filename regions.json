@@ -23,7 +23,14 @@
         "spawnX": 312,
         "spawnY": 552
     },
-    "rimmington": { "spawnX": 324, "spawnY": 661 },
+    "rimmington": {
+        "minX": 310,
+        "maxX": 336,
+        "minY": 654,
+        "maxY": 674,
+        "spawnX": 324,
+        "spawnY": 661
+    },
     "camelot": { "spawnX": 465, "spawnY": 456 },
     "ardougne": {
         "minX": 500,
@@ -50,7 +57,14 @@
         "spawnX": 216,
         "spawnY": 451
     },
-    "barbarian-village": { "minX": 180, "maxX": 427, "minY": 245, "maxY": 535 },
+    "barbarian-village": {
+        "minX": 220,
+        "maxX": 244,
+        "minY": 490,
+        "maxY": 528,
+        "spawnX": 226,
+        "spawnY": 512
+    },
     "draynor": {
         "minX": 180,
         "maxX": 535,
@@ -100,7 +114,7 @@
     "lumbridge-lady-broken": { "spawnX": 259, "spawnY": 3472 },
     "lumbridge-lady-fixed": { "spawnX": 259, "spawnY": 3493 },
     "lumbridge-lady-broken-ned": { "spawnX": 281, "spawnY": 3472 },
-    "lumbridge-lady-fixed-ned": { "spawnX": 281, "spawnY": 3493},
+    "lumbridge-lady-fixed-ned": { "spawnX": 281, "spawnY": 3493 },
     "wilderness": {
         "minX": 48,
         "maxX": 336,
@@ -108,5 +122,123 @@
         "minY": 96,
         "spawnX": 198,
         "spawnY": 284
+    },
+    "varrock-sewers": {
+        "minX": 88,
+        "maxX": 167,
+        "minY": 3272,
+        "maxY": 3309
+    },
+    "edgeville-dungeon": {
+        "minX": 178,
+        "maxX": 224,
+        "minY": 3267,
+        "maxY": 3336
+    },
+    "phoenix-gang-hideout": {
+        "minX": 101,
+        "maxX": 114,
+        "minY": 3366,
+        "maxY": 3381
+    },
+    "dwarven-mine": {
+        "minX": 254,
+        "maxX": 315,
+        "minY": 3325,
+        "maxY": 3401
+    },
+    "mining-guild": {
+        "minX": 263,
+        "maxX": 278,
+        "minY": 3381,
+        "maxY": 3401
+    },
+    "asgarnian-ice-dungeon": {
+        "minX": 275,
+        "maxX": 317,
+        "minY": 3513,
+        "maxY": 3546
+    },
+    "crandor-dungeon": {
+        "minX": 402,
+        "maxX": 424,
+        "minY": 3460,
+        "maxY": 3517
+    },
+    "karamja-dungeon": {
+        "minX": 403,
+        "maxX": 428,
+        "minY": 3518,
+        "maxY": 3546
+    },
+    "draynor-manor": {
+        "minX": 197,
+        "maxX": 232,
+        "minY": 535,
+        "maxY": 570,
+        "spawnX": 210,
+        "spawnY": 558
+    },
+    "lumbridge-graveyard": {
+        "minX": 102,
+        "maxX": 114,
+        "minY": 666,
+        "maxY": 677
+    },
+    "lumbridge-swamp": {
+        "minX": 108,
+        "maxX": 174,
+        "minY": 664,
+        "maxY": 714,
+        "spawnX": 142,
+        "spawnY": 692
+    },
+    "monastery": {
+        "minX": 246,
+        "maxX": 266,
+        "minY": 452,
+        "maxY": 471,
+        "spawnX": 256,
+        "spawnY": 453
+    },
+    "goblin-village": {
+        "minX": 308,
+        "maxX": 342,
+        "minY": 439,
+        "maxY": 464,
+        "spawnX": 325,
+        "spawnY": 461
+    },
+    "ice-mountain": {
+        "minX": 272,
+        "maxX": 307,
+        "minY": 446,
+        "maxY": 491,
+        "spawnX": 288,
+        "spawnY": 461
+    },
+    "karamja-volcano": {
+        "minX": 388,
+        "maxX": 430,
+        "minY": 664,
+        "maxY": 715,
+        "spawnX": 413,
+        "spawnY": 703
+    },
+    "wizards-tower": {
+        "minX": 208,
+        "maxX": 224,
+        "minY": 685,
+        "maxY": 702,
+        "spawnX": 217,
+        "spawnY": 684
+    },
+    "chaos-temple": {
+        "minX": 107,
+        "maxX": 125,
+        "minY": 350,
+        "maxY": 372,
+        "spawnX": 114,
+        "spawnY": 358
     }
 }
